@@ -1,0 +1,490 @@
+team_id,team_name,team_norm,tournament_id,tournament_year,fifa_rank_pre_tournament,fifa_points_pre_tournament,fifa_previous_points_pre_tournament,fifa_diff_points_pre_tournament,fifa_ranking_date,team_tournament_id
+team_e165d4f2174b,France,france,wc_1930,1930,,,,,,team_tournament_4df84b90cc0e
+team_4edfc924721a,Mexico,mexico,wc_1930,1930,,,,,,team_tournament_2f26c3f8aafb
+team_152649df347e,United States,united states,wc_1930,1930,,,,,,team_tournament_d948c6005286
+team_73fa01094ea6,Belgium,belgium,wc_1930,1930,,,,,,team_tournament_6eea4596c0c0
+team_950ebd5e5210,Yugoslavia,yugoslavia,wc_1930,1930,,,,,,team_tournament_db12ab9798a8
+team_6e5fa4d9c48c,Brazil,brazil,wc_1930,1930,,,,,,team_tournament_934f2d921cda
+team_89055f975d7d,Romania,romania,wc_1930,1930,,,,,,team_tournament_3b532211019f
+team_32e8419a7ecb,Peru,peru,wc_1930,1930,,,,,,team_tournament_fec1a5271a11
+team_2a52adc7b1da,Argentina,argentina,wc_1930,1930,,,,,,team_tournament_1ea5b0f2ab12
+team_fd317045cbdc,Chile,chile,wc_1930,1930,,,,,,team_tournament_98e207a30712
+team_3bafbfd8bf5e,Paraguay,paraguay,wc_1930,1930,,,,,,team_tournament_8cc0b4ece8b0
+team_76781be1c79d,Bolivia,bolivia,wc_1930,1930,,,,,,team_tournament_50ff585ba8da
+team_9142ac5b229c,Uruguay,uruguay,wc_1930,1930,,,,,,team_tournament_82b569eb5240
+team_28ef36b35ae8,Germany,germany,wc_1934,1934,,,,,,team_tournament_ddc4070c9876
+team_73fa01094ea6,Belgium,belgium,wc_1934,1934,,,,,,team_tournament_3a7870596a8f
+team_88e52ee42fd0,Sweden,sweden,wc_1934,1934,,,,,,team_tournament_066a5e3f147e
+team_2a52adc7b1da,Argentina,argentina,wc_1934,1934,,,,,,team_tournament_3d35350bf67c
+team_43c05d43f993,Czechoslovakia,czechoslovakia,wc_1934,1934,,,,,,team_tournament_ee7aada92bbb
+team_89055f975d7d,Romania,romania,wc_1934,1934,,,,,,team_tournament_020963fea0c1
+team_3b4bbcb74728,Hungary,hungary,wc_1934,1934,,,,,,team_tournament_cc4e676403aa
+team_4635c9536a61,Egypt,egypt,wc_1934,1934,,,,,,team_tournament_0e391eca4293
+team_0d9c575f4f02,Switzerland,switzerland,wc_1934,1934,,,,,,team_tournament_73bf3bc1e30b
+team_6123486432d2,Netherlands,netherlands,wc_1934,1934,,,,,,team_tournament_b77845697d68
+team_1747d4b2dd4b,Spain,spain,wc_1934,1934,,,,,,team_tournament_f6a5fe652546
+team_6e5fa4d9c48c,Brazil,brazil,wc_1934,1934,,,,,,team_tournament_5ae6b0f9bdcf
+team_bab4ac375ada,Italy,italy,wc_1934,1934,,,,,,team_tournament_02c512944a9e
+team_152649df347e,United States,united states,wc_1934,1934,,,,,,team_tournament_326c3a7303ea
+team_6cd0c266688a,Austria,austria,wc_1934,1934,,,,,,team_tournament_295a394c714d
+team_e165d4f2174b,France,france,wc_1934,1934,,,,,,team_tournament_d7e118234479
+team_0d9c575f4f02,Switzerland,switzerland,wc_1938,1938,,,,,,team_tournament_12a768de1de6
+team_28ef36b35ae8,Germany,germany,wc_1938,1938,,,,,,team_tournament_e571612d4f5d
+team_6e5fa4d9c48c,Brazil,brazil,wc_1938,1938,,,,,,team_tournament_09b583db1c44
+team_6f08c5ddcdd0,Poland,poland,wc_1938,1938,,,,,,team_tournament_e230e3410a22
+team_2b84cd5da64a,Cuba,cuba,wc_1938,1938,,,,,,team_tournament_12d2d1237dd2
+team_89055f975d7d,Romania,romania,wc_1938,1938,,,,,,team_tournament_e381a9c44880
+team_bab4ac375ada,Italy,italy,wc_1938,1938,,,,,,team_tournament_01cdca4dd53a
+team_e6e6854f6b71,Norway,norway,wc_1938,1938,,,,,,team_tournament_612384b82e4a
+team_43c05d43f993,Czechoslovakia,czechoslovakia,wc_1938,1938,,,,,,team_tournament_c153da815568
+team_6123486432d2,Netherlands,netherlands,wc_1938,1938,,,,,,team_tournament_6c091db763c9
+team_3b4bbcb74728,Hungary,hungary,wc_1938,1938,,,,,,team_tournament_bd399c6d4f3d
+team_f0fb186afcee,Dutch East Indies,dutch east indies,wc_1938,1938,,,,,,team_tournament_d29a94c1f555
+team_e165d4f2174b,France,france,wc_1938,1938,,,,,,team_tournament_54cfa63f07c8
+team_73fa01094ea6,Belgium,belgium,wc_1938,1938,,,,,,team_tournament_aeea9cedb47f
+team_88e52ee42fd0,Sweden,sweden,wc_1938,1938,,,,,,team_tournament_ce5696c7b5bf
+team_6e5fa4d9c48c,Brazil,brazil,wc_1950,1950,,,,,,team_tournament_9c89c455abb8
+team_4edfc924721a,Mexico,mexico,wc_1950,1950,,,,,,team_tournament_4020d4fa0b94
+team_1747d4b2dd4b,Spain,spain,wc_1950,1950,,,,,,team_tournament_2d409b5d917d
+team_152649df347e,United States,united states,wc_1950,1950,,,,,,team_tournament_dba375e1b3f5
+team_f48861ca24e2,England,england,wc_1950,1950,,,,,,team_tournament_26e87c1dbe67
+team_fd317045cbdc,Chile,chile,wc_1950,1950,,,,,,team_tournament_dce79131fa56
+team_88e52ee42fd0,Sweden,sweden,wc_1950,1950,,,,,,team_tournament_3cbf507f2464
+team_bab4ac375ada,Italy,italy,wc_1950,1950,,,,,,team_tournament_0f8e8ba6480c
+team_950ebd5e5210,Yugoslavia,yugoslavia,wc_1950,1950,,,,,,team_tournament_078cccb365a5
+team_0d9c575f4f02,Switzerland,switzerland,wc_1950,1950,,,,,,team_tournament_ad0b6a03b118
+team_3bafbfd8bf5e,Paraguay,paraguay,wc_1950,1950,,,,,,team_tournament_dc8d696ed715
+team_9142ac5b229c,Uruguay,uruguay,wc_1950,1950,,,,,,team_tournament_0cf7c2a11927
+team_76781be1c79d,Bolivia,bolivia,wc_1950,1950,,,,,,team_tournament_b9a7d21c3027
+team_6cd0c266688a,Austria,austria,wc_1954,1954,,,,,,team_tournament_afedc0a1d8b0
+team_b0ce0b49f97d,Scotland,scotland,wc_1954,1954,,,,,,team_tournament_f802e27d12bf
+team_950ebd5e5210,Yugoslavia,yugoslavia,wc_1954,1954,,,,,,team_tournament_5041101563e9
+team_e165d4f2174b,France,france,wc_1954,1954,,,,,,team_tournament_33e719bedf42
+team_6e5fa4d9c48c,Brazil,brazil,wc_1954,1954,,,,,,team_tournament_b09d054dd304
+team_4edfc924721a,Mexico,mexico,wc_1954,1954,,,,,,team_tournament_97b6da577b09
+team_9142ac5b229c,Uruguay,uruguay,wc_1954,1954,,,,,,team_tournament_c4395feefc6f
+team_43c05d43f993,Czechoslovakia,czechoslovakia,wc_1954,1954,,,,,,team_tournament_a892715fbbb6
+team_f48861ca24e2,England,england,wc_1954,1954,,,,,,team_tournament_3934061187c2
+team_73fa01094ea6,Belgium,belgium,wc_1954,1954,,,,,,team_tournament_8f3e61a62c72
+team_0d9c575f4f02,Switzerland,switzerland,wc_1954,1954,,,,,,team_tournament_e117df6743a8
+team_bab4ac375ada,Italy,italy,wc_1954,1954,,,,,,team_tournament_da3d53f593fd
+team_3b4bbcb74728,Hungary,hungary,wc_1954,1954,,,,,,team_tournament_8c7fe9f1bf01
+team_3c6cfbc2415a,Korea Republic,south korea,wc_1954,1954,,,,,,team_tournament_3ef356f23387
+team_28ef36b35ae8,Germany,germany,wc_1954,1954,,,,,,team_tournament_679081d1ad1f
+team_bb3db6b18c5c,Türkiye,türkiye,wc_1954,1954,,,,,,team_tournament_ee0bfe9477f9
+team_3b4bbcb74728,Hungary,hungary,wc_1958,1958,,,,,,team_tournament_9b72e810fb2f
+team_eea7530d166b,Wales,wales,wc_1958,1958,,,,,,team_tournament_17a2b03c87e0
+team_e762c470514b,Soviet Union,soviet union,wc_1958,1958,,,,,,team_tournament_b3ffcaed01e0
+team_f48861ca24e2,England,england,wc_1958,1958,,,,,,team_tournament_e11f0a506011
+team_35380523e7c0,Northern Ireland,northern ireland,wc_1958,1958,,,,,,team_tournament_30e79d659a57
+team_43c05d43f993,Czechoslovakia,czechoslovakia,wc_1958,1958,,,,,,team_tournament_629db23ee255
+team_e165d4f2174b,France,france,wc_1958,1958,,,,,,team_tournament_1fe0eaea193f
+team_3bafbfd8bf5e,Paraguay,paraguay,wc_1958,1958,,,,,,team_tournament_0e1236e4bf65
+team_6e5fa4d9c48c,Brazil,brazil,wc_1958,1958,,,,,,team_tournament_71da3747eb36
+team_6cd0c266688a,Austria,austria,wc_1958,1958,,,,,,team_tournament_35865ccd5b55
+team_88e52ee42fd0,Sweden,sweden,wc_1958,1958,,,,,,team_tournament_24050fec77b1
+team_4edfc924721a,Mexico,mexico,wc_1958,1958,,,,,,team_tournament_2705c129df1c
+team_2a52adc7b1da,Argentina,argentina,wc_1958,1958,,,,,,team_tournament_7b2f4f5b1431
+team_79efb284d3e2,West Germany,west germany,wc_1958,1958,,,,,,team_tournament_ad86f246258d
+team_950ebd5e5210,Yugoslavia,yugoslavia,wc_1958,1958,,,,,,team_tournament_791bff5af5ae
+team_b0ce0b49f97d,Scotland,scotland,wc_1958,1958,,,,,,team_tournament_8f71be6ffeaf
+team_6e5fa4d9c48c,Brazil,brazil,wc_1962,1962,,,,,,team_tournament_be1052125d99
+team_4edfc924721a,Mexico,mexico,wc_1962,1962,,,,,,team_tournament_5851108c4c61
+team_fd317045cbdc,Chile,chile,wc_1962,1962,,,,,,team_tournament_48ed33407f46
+team_0d9c575f4f02,Switzerland,switzerland,wc_1962,1962,,,,,,team_tournament_94c6df368b66
+team_2a52adc7b1da,Argentina,argentina,wc_1962,1962,,,,,,team_tournament_5aea09936cc7
+team_db5f14430304,Bulgaria,bulgaria,wc_1962,1962,,,,,,team_tournament_d986d7a6e63a
+team_9142ac5b229c,Uruguay,uruguay,wc_1962,1962,,,,,,team_tournament_f7df89de8b72
+team_25446782e2cc,Colombia,colombia,wc_1962,1962,,,,,,team_tournament_4fe73cc9aecc
+team_3b4bbcb74728,Hungary,hungary,wc_1962,1962,,,,,,team_tournament_6031028fd417
+team_f48861ca24e2,England,england,wc_1962,1962,,,,,,team_tournament_d9de1bdf9f55
+team_79efb284d3e2,West Germany,west germany,wc_1962,1962,,,,,,team_tournament_c6e24c70ac45
+team_bab4ac375ada,Italy,italy,wc_1962,1962,,,,,,team_tournament_dd88acea51d6
+team_43c05d43f993,Czechoslovakia,czechoslovakia,wc_1962,1962,,,,,,team_tournament_b6c9ffad4a88
+team_1747d4b2dd4b,Spain,spain,wc_1962,1962,,,,,,team_tournament_df5e8eeee44e
+team_e762c470514b,Soviet Union,soviet union,wc_1962,1962,,,,,,team_tournament_17d8b7c2348e
+team_950ebd5e5210,Yugoslavia,yugoslavia,wc_1962,1962,,,,,,team_tournament_6a13dc9fd751
+team_f48861ca24e2,England,england,wc_1966,1966,,,,,,team_tournament_89ad525ccb10
+team_9142ac5b229c,Uruguay,uruguay,wc_1966,1966,,,,,,team_tournament_be432178c6e0
+team_6e5fa4d9c48c,Brazil,brazil,wc_1966,1966,,,,,,team_tournament_4f4f3f7fd1d1
+team_db5f14430304,Bulgaria,bulgaria,wc_1966,1966,,,,,,team_tournament_2cbd95526591
+team_e762c470514b,Soviet Union,soviet union,wc_1966,1966,,,,,,team_tournament_b0929ee3173a
+team_a9f3e4aa0834,Korea DPR,korea dpr,wc_1966,1966,,,,,,team_tournament_df8d231f124b
+team_79efb284d3e2,West Germany,west germany,wc_1966,1966,,,,,,team_tournament_8ee10ea96bd5
+team_0d9c575f4f02,Switzerland,switzerland,wc_1966,1966,,,,,,team_tournament_ee42230439c2
+team_e165d4f2174b,France,france,wc_1966,1966,,,,,,team_tournament_2bfebe706d6c
+team_4edfc924721a,Mexico,mexico,wc_1966,1966,,,,,,team_tournament_bc896494c057
+team_bab4ac375ada,Italy,italy,wc_1966,1966,,,,,,team_tournament_580a0bbbb497
+team_fd317045cbdc,Chile,chile,wc_1966,1966,,,,,,team_tournament_27c81b9365b6
+team_ae0eea6eb6d6,Portugal,portugal,wc_1966,1966,,,,,,team_tournament_1aa635551997
+team_3b4bbcb74728,Hungary,hungary,wc_1966,1966,,,,,,team_tournament_1a4a8dbd1faf
+team_2a52adc7b1da,Argentina,argentina,wc_1966,1966,,,,,,team_tournament_736444e9b59e
+team_1747d4b2dd4b,Spain,spain,wc_1966,1966,,,,,,team_tournament_9d2dcba5dc2d
+team_4edfc924721a,Mexico,mexico,wc_1970,1970,,,,,,team_tournament_4838117ad567
+team_e762c470514b,Soviet Union,soviet union,wc_1970,1970,,,,,,team_tournament_e5d1fce3e325
+team_9142ac5b229c,Uruguay,uruguay,wc_1970,1970,,,,,,team_tournament_15b102d981e9
+team_3f8454b7f2c1,Israel,israel,wc_1970,1970,,,,,,team_tournament_517db1a68c4a
+team_32e8419a7ecb,Peru,peru,wc_1970,1970,,,,,,team_tournament_ef73fe9c4567
+team_db5f14430304,Bulgaria,bulgaria,wc_1970,1970,,,,,,team_tournament_9034ed593913
+team_f48861ca24e2,England,england,wc_1970,1970,,,,,,team_tournament_c9c193427861
+team_89055f975d7d,Romania,romania,wc_1970,1970,,,,,,team_tournament_4c5a7164c479
+team_79efb284d3e2,West Germany,west germany,wc_1970,1970,,,,,,team_tournament_316e0afc750e
+team_217b6e5f0a09,Morocco,morocco,wc_1970,1970,,,,,,team_tournament_132f1880d210
+team_bab4ac375ada,Italy,italy,wc_1970,1970,,,,,,team_tournament_a2f9aff7c530
+team_88e52ee42fd0,Sweden,sweden,wc_1970,1970,,,,,,team_tournament_43fe90e4f400
+team_73fa01094ea6,Belgium,belgium,wc_1970,1970,,,,,,team_tournament_3865a71ed26c
+team_eedf141a7e7b,El Salvador,el salvador,wc_1970,1970,,,,,,team_tournament_e68e8b26809b
+team_6e5fa4d9c48c,Brazil,brazil,wc_1970,1970,,,,,,team_tournament_f7e40423a412
+team_43c05d43f993,Czechoslovakia,czechoslovakia,wc_1970,1970,,,,,,team_tournament_253a21d8a3d0
+team_6e5fa4d9c48c,Brazil,brazil,wc_1974,1974,,,,,,team_tournament_07d37852a284
+team_950ebd5e5210,Yugoslavia,yugoslavia,wc_1974,1974,,,,,,team_tournament_902cdc199418
+team_00f3af1ef8f9,Germany DR,germany dr,wc_1974,1974,,,,,,team_tournament_898f29d177cb
+team_fb2a54d63748,Australia,australia,wc_1974,1974,,,,,,team_tournament_6ebede79a0c0
+team_79efb284d3e2,West Germany,west germany,wc_1974,1974,,,,,,team_tournament_227b4ede8826
+team_fd317045cbdc,Chile,chile,wc_1974,1974,,,,,,team_tournament_0b18127c006f
+team_e3a5090ba681,Zaire,zaire,wc_1974,1974,,,,,,team_tournament_beec52aabb63
+team_b0ce0b49f97d,Scotland,scotland,wc_1974,1974,,,,,,team_tournament_6501af8d2998
+team_88e52ee42fd0,Sweden,sweden,wc_1974,1974,,,,,,team_tournament_3fd48b88360e
+team_db5f14430304,Bulgaria,bulgaria,wc_1974,1974,,,,,,team_tournament_c892ea0ffdd7
+team_9142ac5b229c,Uruguay,uruguay,wc_1974,1974,,,,,,team_tournament_c71d3928b9f1
+team_6123486432d2,Netherlands,netherlands,wc_1974,1974,,,,,,team_tournament_82e6c27c9e24
+team_bab4ac375ada,Italy,italy,wc_1974,1974,,,,,,team_tournament_f6a4e39ec127
+team_87b190830af9,Haiti,haiti,wc_1974,1974,,,,,,team_tournament_b402542b9cbc
+team_6f08c5ddcdd0,Poland,poland,wc_1974,1974,,,,,,team_tournament_ee4992b7cadb
+team_2a52adc7b1da,Argentina,argentina,wc_1974,1974,,,,,,team_tournament_8e0dbffafab0
+team_79efb284d3e2,West Germany,west germany,wc_1978,1978,,,,,,team_tournament_815311313d2f
+team_6f08c5ddcdd0,Poland,poland,wc_1978,1978,,,,,,team_tournament_b20229bb192f
+team_6b07fd4ea837,Tunisia,tunisia,wc_1978,1978,,,,,,team_tournament_3258a94e0aab
+team_4edfc924721a,Mexico,mexico,wc_1978,1978,,,,,,team_tournament_664d946d39ee
+team_bab4ac375ada,Italy,italy,wc_1978,1978,,,,,,team_tournament_3a28d497a452
+team_e165d4f2174b,France,france,wc_1978,1978,,,,,,team_tournament_88d4425ed1c1
+team_2a52adc7b1da,Argentina,argentina,wc_1978,1978,,,,,,team_tournament_5ee8a7f57301
+team_3b4bbcb74728,Hungary,hungary,wc_1978,1978,,,,,,team_tournament_e1aceaa2da2d
+team_6cd0c266688a,Austria,austria,wc_1978,1978,,,,,,team_tournament_0e34e9eb0953
+team_1747d4b2dd4b,Spain,spain,wc_1978,1978,,,,,,team_tournament_cb60abdc3578
+team_6123486432d2,Netherlands,netherlands,wc_1978,1978,,,,,,team_tournament_ee8fd667c9b3
+team_6f0a7d56c2cd,IR Iran,iran,wc_1978,1978,,,,,,team_tournament_65e54cba66a2
+team_88e52ee42fd0,Sweden,sweden,wc_1978,1978,,,,,,team_tournament_c1722ff82804
+team_6e5fa4d9c48c,Brazil,brazil,wc_1978,1978,,,,,,team_tournament_16f109d3690c
+team_32e8419a7ecb,Peru,peru,wc_1978,1978,,,,,,team_tournament_2ac6d72b2492
+team_b0ce0b49f97d,Scotland,scotland,wc_1978,1978,,,,,,team_tournament_33d652fd9d49
+team_2a52adc7b1da,Argentina,argentina,wc_1982,1982,,,,,,team_tournament_5f24ac2062c3
+team_73fa01094ea6,Belgium,belgium,wc_1982,1982,,,,,,team_tournament_78fe13bc3e27
+team_bab4ac375ada,Italy,italy,wc_1982,1982,,,,,,team_tournament_6cca6bc621e2
+team_6f08c5ddcdd0,Poland,poland,wc_1982,1982,,,,,,team_tournament_4515fcd4d95b
+team_6e5fa4d9c48c,Brazil,brazil,wc_1982,1982,,,,,,team_tournament_d5fa799f1ca8
+team_e762c470514b,Soviet Union,soviet union,wc_1982,1982,,,,,,team_tournament_7d4d8a801493
+team_b0ce0b49f97d,Scotland,scotland,wc_1982,1982,,,,,,team_tournament_89126182d3d5
+team_ea14e587f5a8,New Zealand,new zealand,wc_1982,1982,,,,,,team_tournament_77fc8e085d08
+team_3b4bbcb74728,Hungary,hungary,wc_1982,1982,,,,,,team_tournament_2b07976ad99d
+team_eedf141a7e7b,El Salvador,el salvador,wc_1982,1982,,,,,,team_tournament_462343cbfd6c
+team_32e8419a7ecb,Peru,peru,wc_1982,1982,,,,,,team_tournament_f9f4aa056cf0
+team_9621cbb93d1b,Cameroon,cameroon,wc_1982,1982,,,,,,team_tournament_13c6f4c9aeaf
+team_79efb284d3e2,West Germany,west germany,wc_1982,1982,,,,,,team_tournament_0d18be4515c1
+team_49f4fdc64da0,Algeria,algeria,wc_1982,1982,,,,,,team_tournament_aff98be7cfa0
+team_1747d4b2dd4b,Spain,spain,wc_1982,1982,,,,,,team_tournament_d80f620a835c
+team_1e28fe23fb14,Honduras,honduras,wc_1982,1982,,,,,,team_tournament_d5aae33041bf
+team_f48861ca24e2,England,england,wc_1982,1982,,,,,,team_tournament_adc72d3574c8
+team_e165d4f2174b,France,france,wc_1982,1982,,,,,,team_tournament_03dde8c449fc
+team_fd317045cbdc,Chile,chile,wc_1982,1982,,,,,,team_tournament_577dbfc24829
+team_6cd0c266688a,Austria,austria,wc_1982,1982,,,,,,team_tournament_b22beea500bc
+team_43c05d43f993,Czechoslovakia,czechoslovakia,wc_1982,1982,,,,,,team_tournament_432b092a4dd8
+team_b18fa0d42ad9,Kuwait,kuwait,wc_1982,1982,,,,,,team_tournament_282fdfc39f15
+team_950ebd5e5210,Yugoslavia,yugoslavia,wc_1982,1982,,,,,,team_tournament_ff623c5c312c
+team_35380523e7c0,Northern Ireland,northern ireland,wc_1982,1982,,,,,,team_tournament_095ebf4da971
+team_db5f14430304,Bulgaria,bulgaria,wc_1986,1986,,,,,,team_tournament_0c434c8f9c9a
+team_bab4ac375ada,Italy,italy,wc_1986,1986,,,,,,team_tournament_8539dac74167
+team_1747d4b2dd4b,Spain,spain,wc_1986,1986,,,,,,team_tournament_d5379b597352
+team_6e5fa4d9c48c,Brazil,brazil,wc_1986,1986,,,,,,team_tournament_f9a5afee6ad1
+team_c2aadac2ca30,Canada,canada,wc_1986,1986,,,,,,team_tournament_725e4850c5b7
+team_e165d4f2174b,France,france,wc_1986,1986,,,,,,team_tournament_c03bd52e9910
+team_217b6e5f0a09,Morocco,morocco,wc_1986,1986,,,,,,team_tournament_6f55032101a9
+team_6f08c5ddcdd0,Poland,poland,wc_1986,1986,,,,,,team_tournament_7b18bc6c16f9
+team_e762c470514b,Soviet Union,soviet union,wc_1986,1986,,,,,,team_tournament_ce369f5ea3c1
+team_3b4bbcb74728,Hungary,hungary,wc_1986,1986,,,,,,team_tournament_8ecf9e30b719
+team_2a52adc7b1da,Argentina,argentina,wc_1986,1986,,,,,,team_tournament_c4586317d5b6
+team_3c6cfbc2415a,Korea Republic,south korea,wc_1986,1986,,,,,,team_tournament_c481b0586b74
+team_ae0eea6eb6d6,Portugal,portugal,wc_1986,1986,,,,,,team_tournament_7076c3b79ca1
+team_f48861ca24e2,England,england,wc_1986,1986,,,,,,team_tournament_e9e93f6a4c40
+team_73fa01094ea6,Belgium,belgium,wc_1986,1986,,,,,,team_tournament_7d3daa641604
+team_4edfc924721a,Mexico,mexico,wc_1986,1986,,,,,,team_tournament_e74b0d20355f
+team_49f4fdc64da0,Algeria,algeria,wc_1986,1986,,,,,,team_tournament_75c9d53a434e
+team_35380523e7c0,Northern Ireland,northern ireland,wc_1986,1986,,,,,,team_tournament_fa924ae48f87
+team_b0ce0b49f97d,Scotland,scotland,wc_1986,1986,,,,,,team_tournament_24dce399a98d
+team_e9375700acbb,Denmark,denmark,wc_1986,1986,,,,,,team_tournament_1d1e3af7f2f3
+team_9142ac5b229c,Uruguay,uruguay,wc_1986,1986,,,,,,team_tournament_d0b498a97a81
+team_79efb284d3e2,West Germany,west germany,wc_1986,1986,,,,,,team_tournament_dbd38162d21e
+team_3bafbfd8bf5e,Paraguay,paraguay,wc_1986,1986,,,,,,team_tournament_f8e0aa192651
+team_d3b1cee2327c,Iraq,iraq,wc_1986,1986,,,,,,team_tournament_83fbe4186dbe
+team_2a52adc7b1da,Argentina,argentina,wc_1990,1990,,,,,,team_tournament_5aa6e1b1abf0
+team_9621cbb93d1b,Cameroon,cameroon,wc_1990,1990,,,,,,team_tournament_4b536d18253c
+team_8882cbb50c41,United Arab Emirates,united arab emirates,wc_1990,1990,,,,,,team_tournament_03fb49ac43ea
+team_25446782e2cc,Colombia,colombia,wc_1990,1990,,,,,,team_tournament_720d8ea548b2
+team_e762c470514b,Soviet Union,soviet union,wc_1990,1990,,,,,,team_tournament_1e0f7efdadde
+team_89055f975d7d,Romania,romania,wc_1990,1990,,,,,,team_tournament_8e6587db64bd
+team_bab4ac375ada,Italy,italy,wc_1990,1990,,,,,,team_tournament_9eac7fac4314
+team_6cd0c266688a,Austria,austria,wc_1990,1990,,,,,,team_tournament_3b6a370983a9
+team_152649df347e,United States,united states,wc_1990,1990,,,,,,team_tournament_ce3fb7309aa4
+team_43c05d43f993,Czechoslovakia,czechoslovakia,wc_1990,1990,,,,,,team_tournament_8d253b717144
+team_6e5fa4d9c48c,Brazil,brazil,wc_1990,1990,,,,,,team_tournament_62cec2cc0c2c
+team_88e52ee42fd0,Sweden,sweden,wc_1990,1990,,,,,,team_tournament_9fdcdea9d29f
+team_79efb284d3e2,West Germany,west germany,wc_1990,1990,,,,,,team_tournament_5e2c7aa590e0
+team_950ebd5e5210,Yugoslavia,yugoslavia,wc_1990,1990,,,,,,team_tournament_05dcf955fa04
+team_53bcde0ca059,Costa Rica,costa rica,wc_1990,1990,,,,,,team_tournament_e968a35bffb6
+team_b0ce0b49f97d,Scotland,scotland,wc_1990,1990,,,,,,team_tournament_4c68b2e617c8
+team_f48861ca24e2,England,england,wc_1990,1990,,,,,,team_tournament_4f66218872b8
+team_a66f852274a4,Republic of Ireland,ireland,wc_1990,1990,,,,,,team_tournament_681c017469a7
+team_6123486432d2,Netherlands,netherlands,wc_1990,1990,,,,,,team_tournament_bb9bbffc1980
+team_4635c9536a61,Egypt,egypt,wc_1990,1990,,,,,,team_tournament_a4d50b67ee62
+team_73fa01094ea6,Belgium,belgium,wc_1990,1990,,,,,,team_tournament_b72407ebef15
+team_3c6cfbc2415a,Korea Republic,south korea,wc_1990,1990,,,,,,team_tournament_e1bcf20acbc5
+team_9142ac5b229c,Uruguay,uruguay,wc_1990,1990,,,,,,team_tournament_c9ba6d38d25c
+team_1747d4b2dd4b,Spain,spain,wc_1990,1990,,,,,,team_tournament_c45d590b8bc9
+team_28ef36b35ae8,Germany,germany,wc_1994,1994,3.0,61.0,60.0,1.0,1994-06-30,team_tournament_e0c74d12b3e3
+team_76781be1c79d,Bolivia,bolivia,wc_1994,1994,40.0,36.0,35.0,1.0,1994-06-30,team_tournament_413c30d225a5
+team_1747d4b2dd4b,Spain,spain,wc_1994,1994,6.0,60.0,56.0,4.0,1994-06-30,team_tournament_0efe0b861d0b
+team_3c6cfbc2415a,Korea Republic,south korea,wc_1994,1994,35.0,39.0,38.0,1.0,1994-06-30,team_tournament_d69549b25b18
+team_25446782e2cc,Colombia,colombia,wc_1994,1994,14.0,53.0,51.0,2.0,1994-06-30,team_tournament_c7c5e256b148
+team_89055f975d7d,Romania,romania,wc_1994,1994,7.0,58.0,55.0,3.0,1994-06-30,team_tournament_f143a0f7ff91
+team_bab4ac375ada,Italy,italy,wc_1994,1994,2.0,63.0,57.0,6.0,1994-06-30,team_tournament_f5447df99360
+team_a66f852274a4,Republic of Ireland,ireland,wc_1994,1994,13.0,54.0,53.0,1.0,1994-06-30,team_tournament_d2ec46edf400
+team_152649df347e,United States,united states,wc_1994,1994,21.0,48.0,47.0,1.0,1994-06-30,team_tournament_95a3af33201c
+team_0d9c575f4f02,Switzerland,switzerland,wc_1994,1994,10.0,56.0,54.0,2.0,1994-06-30,team_tournament_d29d2094bb11
+team_e6e6854f6b71,Norway,norway,wc_1994,1994,7.0,58.0,56.0,2.0,1994-06-30,team_tournament_e9b328ec537a
+team_4edfc924721a,Mexico,mexico,wc_1994,1994,14.0,53.0,51.0,2.0,1994-06-30,team_tournament_310d5b4ca478
+team_73fa01094ea6,Belgium,belgium,wc_1994,1994,20.0,50.0,44.0,6.0,1994-06-30,team_tournament_9307077e5c70
+team_217b6e5f0a09,Morocco,morocco,wc_1994,1994,28.0,43.0,44.0,-1.0,1994-06-30,team_tournament_4ff0bba71053
+team_9621cbb93d1b,Cameroon,cameroon,wc_1994,1994,27.0,44.0,46.0,-2.0,1994-06-30,team_tournament_a66b8ad1754f
+team_88e52ee42fd0,Sweden,sweden,wc_1994,1994,3.0,61.0,55.0,6.0,1994-06-30,team_tournament_e685f374eded
+team_6123486432d2,Netherlands,netherlands,wc_1994,1994,3.0,61.0,59.0,2.0,1994-06-30,team_tournament_6fe623800b6e
+team_5318efec44d1,Saudi Arabia,saudi arabia,wc_1994,1994,28.0,43.0,40.0,3.0,1994-06-30,team_tournament_36fabfd6e80e
+team_6e5fa4d9c48c,Brazil,brazil,wc_1994,1994,1.0,65.0,59.0,6.0,1994-06-30,team_tournament_d572f49ce35b
+team_1c625cc86f82,Russia,russia,wc_1994,1994,18.0,52.0,50.0,2.0,1994-06-30,team_tournament_25c932dac865
+team_2a52adc7b1da,Argentina,argentina,wc_1994,1994,9.0,57.0,55.0,2.0,1994-06-30,team_tournament_b8054e8f9529
+team_40bdb0601848,Greece,greece,wc_1994,1994,33.0,40.0,41.0,-1.0,1994-06-30,team_tournament_83fc65a7be27
+team_f174114ad69e,Nigeria,nigeria,wc_1994,1994,10.0,56.0,54.0,2.0,1994-06-30,team_tournament_93184b447084
+team_db5f14430304,Bulgaria,bulgaria,wc_1994,1994,14.0,53.0,44.0,9.0,1994-06-30,team_tournament_4992c00624d2
+team_6e5fa4d9c48c,Brazil,brazil,wc_1998,1998,1.0,74.0,72.0,2.0,1998-06-30,team_tournament_c5e36585da1c
+team_b0ce0b49f97d,Scotland,scotland,wc_1998,1998,36.0,49.0,48.0,1.0,1998-06-30,team_tournament_9473467bc7f4
+team_217b6e5f0a09,Morocco,morocco,wc_1998,1998,15.0,59.0,57.0,2.0,1998-06-30,team_tournament_1841b6eaeab0
+team_e6e6854f6b71,Norway,norway,wc_1998,1998,11.0,62.0,60.0,2.0,1998-06-30,team_tournament_cba660113964
+team_9621cbb93d1b,Cameroon,cameroon,wc_1998,1998,37.0,48.0,45.0,3.0,1998-06-30,team_tournament_575b7c78c9b6
+team_6cd0c266688a,Austria,austria,wc_1998,1998,21.0,55.0,52.0,3.0,1998-06-30,team_tournament_76eae29eb8d5
+team_bab4ac375ada,Italy,italy,wc_1998,1998,7.0,64.0,57.0,7.0,1998-06-30,team_tournament_e533c0583319
+team_fd317045cbdc,Chile,chile,wc_1998,1998,15.0,59.0,59.0,0.0,1998-06-30,team_tournament_17aec0603dc8
+team_5318efec44d1,Saudi Arabia,saudi arabia,wc_1998,1998,32.0,51.0,51.0,0.0,1998-06-30,team_tournament_f5adc87d86b8
+team_e9375700acbb,Denmark,denmark,wc_1998,1998,17.0,58.0,53.0,5.0,1998-06-30,team_tournament_e50698c540cf
+team_3bafbfd8bf5e,Paraguay,paraguay,wc_1998,1998,26.0,54.0,52.0,2.0,1998-06-30,team_tournament_c99e0c4651c5
+team_db5f14430304,Bulgaria,bulgaria,wc_1998,1998,34.0,50.0,50.0,0.0,1998-06-30,team_tournament_621e4468108e
+team_e165d4f2174b,France,france,wc_1998,1998,2.0,70.0,56.0,14.0,1998-06-30,team_tournament_60711228d945
+team_c814068bbc92,South Africa,south africa,wc_1998,1998,27.0,53.0,55.0,-2.0,1998-06-30,team_tournament_229ef415114f
+team_1747d4b2dd4b,Spain,spain,wc_1998,1998,13.0,60.0,56.0,4.0,1998-06-30,team_tournament_e7bc81a1f490
+team_f174114ad69e,Nigeria,nigeria,wc_1998,1998,64.0,40.0,37.0,3.0,1998-06-30,team_tournament_5b7c7259b8de
+team_6123486432d2,Netherlands,netherlands,wc_1998,1998,7.0,64.0,54.0,10.0,1998-06-30,team_tournament_049cc9a7ee40
+team_73fa01094ea6,Belgium,belgium,wc_1998,1998,31.0,52.0,50.0,2.0,1998-06-30,team_tournament_6324d65bcaff
+team_3c6cfbc2415a,Korea Republic,south korea,wc_1998,1998,21.0,55.0,55.0,0.0,1998-06-30,team_tournament_0f78ee1bb1e0
+team_4edfc924721a,Mexico,mexico,wc_1998,1998,11.0,62.0,61.0,1.0,1998-06-30,team_tournament_9cbb57aa254a
+team_2a52adc7b1da,Argentina,argentina,wc_1998,1998,5.0,65.0,60.0,5.0,1998-06-30,team_tournament_11f4c261264e
+team_578ed5a4eecf,Japan,japan,wc_1998,1998,21.0,55.0,58.0,-3.0,1998-06-30,team_tournament_7b299536af4f
+team_770105b98be2,Jamaica,jamaica,wc_1998,1998,27.0,53.0,52.0,1.0,1998-06-30,team_tournament_b18c5e798ca8
+team_267640588a39,Croatia,croatia,wc_1998,1998,4.0,67.0,56.0,11.0,1998-06-30,team_tournament_f8ed3f4184f6
+team_735f8bffbc8b,FR Yugoslavia,fr yugoslavia,wc_1998,1998,,,,,,team_tournament_b107a9dafeec
+team_6f0a7d56c2cd,IR Iran,iran,wc_1998,1998,37.0,48.0,48.0,0.0,1998-06-30,team_tournament_83663f279ef7
+team_f48861ca24e2,England,england,wc_1998,1998,10.0,63.0,60.0,3.0,1998-06-30,team_tournament_7d08c687df98
+team_6b07fd4ea837,Tunisia,tunisia,wc_1998,1998,21.0,55.0,55.0,0.0,1998-06-30,team_tournament_e468d8688f00
+team_28ef36b35ae8,Germany,germany,wc_1998,1998,3.0,69.0,65.0,4.0,1998-06-30,team_tournament_e8f01b84dc84
+team_152649df347e,United States,united states,wc_1998,1998,19.0,57.0,58.0,-1.0,1998-06-30,team_tournament_e8e6b0968460
+team_89055f975d7d,Romania,romania,wc_1998,1998,13.0,60.0,55.0,5.0,1998-06-30,team_tournament_6263d70a7171
+team_25446782e2cc,Colombia,colombia,wc_1998,1998,17.0,58.0,58.0,0.0,1998-06-30,team_tournament_77a13987c81b
+team_e165d4f2174b,France,france,wc_2002,2002,2.0,784.0,802.0,-18.0,2002-06-30,team_tournament_7607f8f12cf5
+team_531ba498ac86,Senegal,senegal,wc_2002,2002,31.0,637.0,599.0,38.0,2002-06-30,team_tournament_44607564f727
+team_a66f852274a4,Republic of Ireland,ireland,wc_2002,2002,14.0,699.0,674.0,25.0,2002-06-30,team_tournament_2406e96095b2
+team_9621cbb93d1b,Cameroon,cameroon,wc_2002,2002,17.0,680.0,672.0,8.0,2002-06-30,team_tournament_3d4fe9362a81
+team_28ef36b35ae8,Germany,germany,wc_2002,2002,5.0,765.0,695.0,70.0,2002-06-30,team_tournament_9d614623273b
+team_5318efec44d1,Saudi Arabia,saudi arabia,wc_2002,2002,38.0,623.0,627.0,-4.0,2002-06-30,team_tournament_a78fa1eaac26
+team_9142ac5b229c,Uruguay,uruguay,wc_2002,2002,23.0,662.0,652.0,10.0,2002-06-30,team_tournament_3722c7eed5a7
+team_e9375700acbb,Denmark,denmark,wc_2002,2002,13.0,704.0,657.0,47.0,2002-06-30,team_tournament_0aebbcd0df60
+team_3bafbfd8bf5e,Paraguay,paraguay,wc_2002,2002,18.0,679.0,671.0,8.0,2002-06-30,team_tournament_ca9c97fe6e3d
+team_c814068bbc92,South Africa,south africa,wc_2002,2002,33.0,634.0,623.0,11.0,2002-06-30,team_tournament_7476eea3c09c
+team_2a52adc7b1da,Argentina,argentina,wc_2002,2002,2.0,784.0,784.0,0.0,2002-06-30,team_tournament_44aa4b2556e5
+team_f174114ad69e,Nigeria,nigeria,wc_2002,2002,29.0,642.0,644.0,-2.0,2002-06-30,team_tournament_d3514dc22524
+team_f48861ca24e2,England,england,wc_2002,2002,8.0,728.0,694.0,34.0,2002-06-30,team_tournament_5433f04de4f3
+team_88e52ee42fd0,Sweden,sweden,wc_2002,2002,20.0,674.0,665.0,9.0,2002-06-30,team_tournament_b04f4d42a29a
+team_1747d4b2dd4b,Spain,spain,wc_2002,2002,4.0,774.0,713.0,61.0,2002-06-30,team_tournament_2abf7d5ece5e
+team_7f65809a80ea,Slovenia,slovenia,wc_2002,2002,35.0,632.0,649.0,-17.0,2002-06-30,team_tournament_301fcfca7e44
+team_6e5fa4d9c48c,Brazil,brazil,wc_2002,2002,1.0,852.0,784.0,68.0,2002-06-30,team_tournament_2d155fdaf058
+team_bb3db6b18c5c,Türkiye,türkiye,wc_2002,2002,,,,,,team_tournament_c3c2baf14d3c
+team_267640588a39,Croatia,croatia,wc_2002,2002,27.0,653.0,655.0,-2.0,2002-06-30,team_tournament_d7547c025e23
+team_4edfc924721a,Mexico,mexico,wc_2002,2002,6.0,739.0,716.0,23.0,2002-06-30,team_tournament_73a7abf50a5a
+team_bab4ac375ada,Italy,italy,wc_2002,2002,10.0,720.0,717.0,3.0,2002-06-30,team_tournament_2989a85c8d24
+team_2b4a1835a0aa,Ecuador,ecuador,wc_2002,2002,31.0,637.0,624.0,13.0,2002-06-30,team_tournament_6054ee9e7455
+team_3c6cfbc2415a,Korea Republic,south korea,wc_2002,2002,22.0,664.0,603.0,61.0,2002-06-30,team_tournament_38d423f424d1
+team_6f08c5ddcdd0,Poland,poland,wc_2002,2002,39.0,621.0,615.0,6.0,2002-06-30,team_tournament_814b65830eff
+team_578ed5a4eecf,Japan,japan,wc_2002,2002,24.0,658.0,634.0,24.0,2002-06-30,team_tournament_3026343bfda2
+team_73fa01094ea6,Belgium,belgium,wc_2002,2002,19.0,678.0,653.0,25.0,2002-06-30,team_tournament_d277c0636e95
+team_8a7d7ba288ca,China PR,china,wc_2002,2002,51.0,549.0,566.0,-17.0,2002-06-30,team_tournament_abad67ec48a0
+team_53bcde0ca059,Costa Rica,costa rica,wc_2002,2002,26.0,656.0,643.0,13.0,2002-06-30,team_tournament_ccd4ee122b34
+team_1c625cc86f82,Russia,russia,wc_2002,2002,28.0,644.0,644.0,0.0,2002-06-30,team_tournament_e81acc9dd363
+team_6b07fd4ea837,Tunisia,tunisia,wc_2002,2002,36.0,626.0,635.0,-9.0,2002-06-30,team_tournament_88cc25cfec59
+team_152649df347e,United States,united states,wc_2002,2002,11.0,712.0,690.0,22.0,2002-06-30,team_tournament_ccba9b9310b4
+team_ae0eea6eb6d6,Portugal,portugal,wc_2002,2002,7.0,731.0,726.0,5.0,2002-06-30,team_tournament_196619c0b3a4
+team_6f08c5ddcdd0,Poland,poland,wc_2006,2006,30.0,809.0,677.0,132.0,2006-06-30,team_tournament_c8c19e698635
+team_2b4a1835a0aa,Ecuador,ecuador,wc_2006,2006,28.0,821.0,631.0,190.0,2006-06-30,team_tournament_1b34132cf8a2
+team_28ef36b35ae8,Germany,germany,wc_2006,2006,9.0,1229.0,696.0,533.0,2006-06-30,team_tournament_eb3fd6825072
+team_53bcde0ca059,Costa Rica,costa rica,wc_2006,2006,46.0,636.0,683.0,-47.0,2006-06-30,team_tournament_73eafd503825
+team_86fb06da27ba,Trinidad and Tobago,trinidad and tobago,wc_2006,2006,65.0,487.0,604.0,-117.0,2006-06-30,team_tournament_8db9bc0460e2
+team_88e52ee42fd0,Sweden,sweden,wc_2006,2006,22.0,886.0,709.0,177.0,2006-06-30,team_tournament_5bfa087df278
+team_f48861ca24e2,England,england,wc_2006,2006,5.0,1434.0,741.0,693.0,2006-06-30,team_tournament_bb613cffc1c7
+team_3bafbfd8bf5e,Paraguay,paraguay,wc_2006,2006,19.0,915.0,653.0,262.0,2006-06-30,team_tournament_de8010cf2695
+team_2a52adc7b1da,Argentina,argentina,wc_2006,2006,3.0,1472.0,746.0,726.0,2006-06-30,team_tournament_b78230308e0b
+team_55dba37b84c9,Côte d'Ivoire,côte divoire,wc_2006,2006,20.0,909.0,669.0,240.0,2006-06-30,team_tournament_ce89102b5725
+team_a7ac62476990,Serbia and Montenegro,serbia and montenegro,wc_2006,2006,36.0,724.0,610.0,114.0,2006-06-30,team_tournament_8ac7c7b556d3
+team_6123486432d2,Netherlands,netherlands,wc_2006,2006,6.0,1322.0,768.0,554.0,2006-06-30,team_tournament_b00079dc6cad
+team_e5e0bd43b7f1,Angola,angola,wc_2006,2006,56.0,564.0,581.0,-17.0,2006-06-30,team_tournament_2203f76a4ec6
+team_ae0eea6eb6d6,Portugal,portugal,wc_2006,2006,8.0,1301.0,750.0,551.0,2006-06-30,team_tournament_526f2afadd05
+team_4edfc924721a,Mexico,mexico,wc_2006,2006,18.0,924.0,758.0,166.0,2006-06-30,team_tournament_21889d9bd797
+team_6f0a7d56c2cd,IR Iran,iran,wc_2006,2006,48.0,624.0,686.0,-62.0,2006-06-30,team_tournament_a5e446367061
+team_152649df347e,United States,united states,wc_2006,2006,16.0,933.0,756.0,177.0,2006-06-30,team_tournament_99cf509c9ff3
+team_98793b57b620,Czech Republic,czechia,wc_2006,2006,10.0,1223.0,772.0,451.0,2006-06-30,team_tournament_8536bcfe5ec1
+team_fb2a54d63748,Australia,australia,wc_2006,2006,33.0,738.0,612.0,126.0,2006-06-30,team_tournament_e84060e7f05a
+team_578ed5a4eecf,Japan,japan,wc_2006,2006,50.0,615.0,705.0,-90.0,2006-06-30,team_tournament_43650c9f13bf
+team_bab4ac375ada,Italy,italy,wc_2006,2006,2.0,1550.0,728.0,822.0,2006-06-30,team_tournament_c5ee9bd77bb1
+team_0e6049dbb2ce,Ghana,ghana,wc_2006,2006,25.0,839.0,600.0,239.0,2006-06-30,team_tournament_ee8cbfd704bb
+team_e165d4f2174b,France,france,wc_2006,2006,4.0,1462.0,749.0,713.0,2006-06-30,team_tournament_48d56d148151
+team_0d9c575f4f02,Switzerland,switzerland,wc_2006,2006,13.0,1028.0,648.0,380.0,2006-06-30,team_tournament_dc104a972a8a
+team_3c6cfbc2415a,Korea Republic,south korea,wc_2006,2006,57.0,557.0,677.0,-120.0,2006-06-30,team_tournament_22dcd3e75871
+team_da6f471bab16,Togo,togo,wc_2006,2006,49.0,622.0,569.0,53.0,2006-06-30,team_tournament_becead569768
+team_6e5fa4d9c48c,Brazil,brazil,wc_2006,2006,1.0,1630.0,827.0,803.0,2006-06-30,team_tournament_cbea3b34d12b
+team_267640588a39,Croatia,croatia,wc_2006,2006,23.0,854.0,686.0,168.0,2006-06-30,team_tournament_06739ec0af8d
+team_6b07fd4ea837,Tunisia,tunisia,wc_2006,2006,31.0,805.0,693.0,112.0,2006-06-30,team_tournament_c7f73d58f15f
+team_5318efec44d1,Saudi Arabia,saudi arabia,wc_2006,2006,82.0,399.0,651.0,-252.0,2006-06-30,team_tournament_17c38e01b06b
+team_1747d4b2dd4b,Spain,spain,wc_2006,2006,7.0,1309.0,756.0,553.0,2006-06-30,team_tournament_ec014df7086b
+team_4b0f1559226d,Ukraine,ukraine,wc_2006,2006,15.0,961.0,609.0,352.0,2006-06-30,team_tournament_69d8e25851ea
+team_9142ac5b229c,Uruguay,uruguay,wc_2010,2010,6.0,1152.0,899.0,253.0,2010-06-30,team_tournament_7c5e457d0622
+team_e165d4f2174b,France,france,wc_2010,2010,21.0,890.0,1044.0,-154.0,2010-06-30,team_tournament_f3d2c582bcec
+team_c814068bbc92,South Africa,south africa,wc_2010,2010,66.0,504.0,392.0,112.0,2010-06-30,team_tournament_25c008e55757
+team_4edfc924721a,Mexico,mexico,wc_2010,2010,24.0,872.0,895.0,-23.0,2010-06-30,team_tournament_843ccc842c07
+team_2a52adc7b1da,Argentina,argentina,wc_2010,2010,5.0,1289.0,1076.0,213.0,2010-06-30,team_tournament_19e06e748389
+team_f174114ad69e,Nigeria,nigeria,wc_2010,2010,30.0,773.0,883.0,-110.0,2010-06-30,team_tournament_519a6383db28
+team_f48861ca24e2,England,england,wc_2010,2010,7.0,1125.0,1068.0,57.0,2010-06-30,team_tournament_51666cfca776
+team_152649df347e,United States,united states,wc_2010,2010,13.0,969.0,957.0,12.0,2010-06-30,team_tournament_b3bce80251d8
+team_3c6cfbc2415a,Korea Republic,south korea,wc_2010,2010,44.0,660.0,632.0,28.0,2010-06-30,team_tournament_5f3020ac6b30
+team_40bdb0601848,Greece,greece,wc_2010,2010,12.0,975.0,964.0,11.0,2010-06-30,team_tournament_db25042e7505
+team_49f4fdc64da0,Algeria,algeria,wc_2010,2010,33.0,759.0,821.0,-62.0,2010-06-30,team_tournament_d4ccaed12599
+team_7f65809a80ea,Slovenia,slovenia,wc_2010,2010,19.0,917.0,860.0,57.0,2010-06-30,team_tournament_49d1ed99c8bf
+team_a3867434e7dc,Serbia,serbia,wc_2010,2010,13.0,969.0,947.0,22.0,2010-06-30,team_tournament_4b56e0a16f8d
+team_0e6049dbb2ce,Ghana,ghana,wc_2010,2010,23.0,874.0,800.0,74.0,2010-06-30,team_tournament_49e06caf5aa9
+team_28ef36b35ae8,Germany,germany,wc_2010,2010,4.0,1464.0,1082.0,382.0,2010-06-30,team_tournament_622d2f121cb5
+team_fb2a54d63748,Australia,australia,wc_2010,2010,20.0,911.0,886.0,25.0,2010-06-30,team_tournament_55d149f4c535
+team_578ed5a4eecf,Japan,japan,wc_2010,2010,32.0,768.0,682.0,86.0,2010-06-30,team_tournament_874bc4d1a12a
+team_9621cbb93d1b,Cameroon,cameroon,wc_2010,2010,40.0,710.0,887.0,-177.0,2010-06-30,team_tournament_6b4272c0e3d9
+team_bab4ac375ada,Italy,italy,wc_2010,2010,11.0,982.0,1184.0,-202.0,2010-06-30,team_tournament_cdf47b9b193f
+team_3bafbfd8bf5e,Paraguay,paraguay,wc_2010,2010,16.0,961.0,820.0,141.0,2010-06-30,team_tournament_1d1f1a63fe93
+team_6123486432d2,Netherlands,netherlands,wc_2010,2010,2.0,1659.0,1231.0,428.0,2010-06-30,team_tournament_34c07edc117f
+team_e9375700acbb,Denmark,denmark,wc_2010,2010,29.0,785.0,767.0,18.0,2010-06-30,team_tournament_81273274f244
+team_55dba37b84c9,Côte d'Ivoire,côte divoire,wc_2010,2010,26.0,843.0,856.0,-13.0,2010-06-30,team_tournament_8adb3e1935b5
+team_ae0eea6eb6d6,Portugal,portugal,wc_2010,2010,8.0,1062.0,1249.0,-187.0,2010-06-30,team_tournament_574edfe3e9c7
+team_6e5fa4d9c48c,Brazil,brazil,wc_2010,2010,3.0,1536.0,1611.0,-75.0,2010-06-30,team_tournament_d7a5063597c7
+team_a9f3e4aa0834,Korea DPR,korea dpr,wc_2010,2010,103.0,284.0,285.0,-1.0,2010-06-30,team_tournament_373acbe00467
+team_ea14e587f5a8,New Zealand,new zealand,wc_2010,2010,54.0,557.0,410.0,147.0,2010-06-30,team_tournament_5c020fc8ac0a
+team_f64a398fc678,Slovakia,slovakia,wc_2010,2010,27.0,829.0,777.0,52.0,2010-06-30,team_tournament_e921d2268835
+team_1747d4b2dd4b,Spain,spain,wc_2010,2010,1.0,1883.0,1565.0,318.0,2010-06-30,team_tournament_b64edd788853
+team_0d9c575f4f02,Switzerland,switzerland,wc_2010,2010,18.0,940.0,866.0,74.0,2010-06-30,team_tournament_83ec85f2b091
+team_1e28fe23fb14,Honduras,honduras,wc_2010,2010,46.0,644.0,734.0,-90.0,2010-06-30,team_tournament_12bcde805040
+team_fd317045cbdc,Chile,chile,wc_2010,2010,10.0,988.0,888.0,100.0,2010-06-30,team_tournament_0a21d73eb86b
+team_6e5fa4d9c48c,Brazil,brazil,wc_2014,2014,7.0,1241.0,1242.0,-1.0,2014-06-30,team_tournament_abfcab67c373
+team_267640588a39,Croatia,croatia,wc_2014,2014,17.0,955.0,903.0,52.0,2014-06-30,team_tournament_a05b9259a293
+team_4edfc924721a,Mexico,mexico,wc_2014,2014,18.0,930.0,882.0,48.0,2014-06-30,team_tournament_100c3035127d
+team_9621cbb93d1b,Cameroon,cameroon,wc_2014,2014,53.0,520.0,558.0,-38.0,2014-06-30,team_tournament_221d26cf9d90
+team_fd317045cbdc,Chile,chile,wc_2014,2014,12.0,1098.0,1026.0,72.0,2014-06-30,team_tournament_a27df4a0426e
+team_fb2a54d63748,Australia,australia,wc_2014,2014,76.0,397.0,526.0,-129.0,2014-06-30,team_tournament_c2bfa3ef532f
+team_1747d4b2dd4b,Spain,spain,wc_2014,2014,8.0,1229.0,1485.0,-256.0,2014-06-30,team_tournament_6c5652b15659
+team_6123486432d2,Netherlands,netherlands,wc_2014,2014,3.0,1496.0,981.0,515.0,2014-06-30,team_tournament_9eb7fc0ec6a1
+team_f48861ca24e2,England,england,wc_2014,2014,20.0,911.0,1090.0,-179.0,2014-06-30,team_tournament_526d9e490466
+team_bab4ac375ada,Italy,italy,wc_2014,2014,14.0,1056.0,1104.0,-48.0,2014-06-30,team_tournament_94d379b6fda6
+team_25446782e2cc,Colombia,colombia,wc_2014,2014,4.0,1492.0,1137.0,355.0,2014-06-30,team_tournament_4158abf5a7df
+team_40bdb0601848,Greece,greece,wc_2014,2014,13.0,1091.0,1064.0,27.0,2014-06-30,team_tournament_d41e6811747c
+team_9142ac5b229c,Uruguay,uruguay,wc_2014,2014,6.0,1330.0,1147.0,183.0,2014-06-30,team_tournament_c1f0c046408f
+team_53bcde0ca059,Costa Rica,costa rica,wc_2014,2014,16.0,986.0,762.0,224.0,2014-06-30,team_tournament_e0aa9722a0d8
+team_55dba37b84c9,Côte d'Ivoire,côte divoire,wc_2014,2014,25.0,850.0,809.0,41.0,2014-06-30,team_tournament_ff37f09746bd
+team_578ed5a4eecf,Japan,japan,wc_2014,2014,45.0,604.0,626.0,-22.0,2014-06-30,team_tournament_64a5fb4432d1
+team_2a52adc7b1da,Argentina,argentina,wc_2014,2014,2.0,1606.0,1175.0,431.0,2014-06-30,team_tournament_0a9386c8f330
+team_196fafef3e56,Bosnia and Herzegovina,bosnia and herzegovina,wc_2014,2014,19.0,917.0,873.0,44.0,2014-06-30,team_tournament_e6a8dd29eb34
+team_0d9c575f4f02,Switzerland,switzerland,wc_2014,2014,9.0,1216.0,1149.0,67.0,2014-06-30,team_tournament_04e4538b29fa
+team_2b4a1835a0aa,Ecuador,ecuador,wc_2014,2014,21.0,901.0,791.0,110.0,2014-06-30,team_tournament_7e19ec7a3b91
+team_e165d4f2174b,France,france,wc_2014,2014,10.0,1202.0,913.0,289.0,2014-06-30,team_tournament_9a34dd93eb8c
+team_1e28fe23fb14,Honduras,honduras,wc_2014,2014,40.0,637.0,731.0,-94.0,2014-06-30,team_tournament_e19a476b13c4
+team_6f0a7d56c2cd,IR Iran,iran,wc_2014,2014,49.0,563.0,641.0,-78.0,2014-06-30,team_tournament_3ab0b6f9d5b4
+team_f174114ad69e,Nigeria,nigeria,wc_2014,2014,34.0,664.0,640.0,24.0,2014-06-30,team_tournament_395971246c21
+team_0e6049dbb2ce,Ghana,ghana,wc_2014,2014,38.0,642.0,704.0,-62.0,2014-06-30,team_tournament_181b8ea0fc59
+team_152649df347e,United States,united states,wc_2014,2014,15.0,989.0,1035.0,-46.0,2014-06-30,team_tournament_f322cdfce1b8
+team_28ef36b35ae8,Germany,germany,wc_2014,2014,1.0,1724.0,1300.0,424.0,2014-06-30,team_tournament_2dbb33131053
+team_ae0eea6eb6d6,Portugal,portugal,wc_2014,2014,11.0,1148.0,1189.0,-41.0,2014-06-30,team_tournament_582432a1aecf
+team_73fa01094ea6,Belgium,belgium,wc_2014,2014,5.0,1401.0,1074.0,327.0,2014-06-30,team_tournament_17b7923c4bab
+team_49f4fdc64da0,Algeria,algeria,wc_2014,2014,24.0,872.0,858.0,14.0,2014-06-30,team_tournament_fe12301a847f
+team_1c625cc86f82,Russia,russia,wc_2014,2014,23.0,897.0,893.0,4.0,2014-06-30,team_tournament_4137346e4949
+team_3c6cfbc2415a,Korea Republic,south korea,wc_2014,2014,56.0,501.0,547.0,-46.0,2014-06-30,team_tournament_7434a589c60d
+team_1c625cc86f82,Russia,russia,wc_2018,2018,49.0,1758.0,1707.0,51.0,2018-06-30,team_tournament_fdfac9efdf61
+team_5318efec44d1,Saudi Arabia,saudi arabia,wc_2018,2018,67.0,1639.0,1673.0,-34.0,2018-06-30,team_tournament_4d7ff3b9460d
+team_ae0eea6eb6d6,Portugal,portugal,wc_2018,2018,3.0,2163.0,2155.0,8.0,2018-06-30,team_tournament_c3bcc8980d6f
+team_1747d4b2dd4b,Spain,spain,wc_2018,2018,6.0,2104.0,2082.0,22.0,2018-06-30,team_tournament_8d564d85c1d7
+team_217b6e5f0a09,Morocco,morocco,wc_2018,2018,43.0,1801.0,1830.0,-29.0,2018-06-30,team_tournament_ea7adc9ccbae
+team_6f0a7d56c2cd,IR Iran,iran,wc_2018,2018,28.0,1896.0,1890.0,6.0,2018-06-30,team_tournament_0296a1538fe5
+team_4635c9536a61,Egypt,egypt,wc_2018,2018,53.0,1748.0,1792.0,-44.0,2018-06-30,team_tournament_ae4a44858a26
+team_9142ac5b229c,Uruguay,uruguay,wc_2018,2018,14.0,2017.0,1991.0,26.0,2018-06-30,team_tournament_e6f9c09286f2
+team_2a52adc7b1da,Argentina,argentina,wc_2018,2018,9.0,2080.0,2117.0,-37.0,2018-06-30,team_tournament_337199ebfc55
+team_83166cdeb7a2,Iceland,iceland,wc_2018,2018,22.0,1938.0,1968.0,-30.0,2018-06-30,team_tournament_185671d1d5b3
+team_e165d4f2174b,France,france,wc_2018,2018,2.0,2164.0,2134.0,30.0,2018-06-30,team_tournament_2c100f2dbbbc
+team_fb2a54d63748,Australia,australia,wc_2018,2018,32.0,1866.0,1870.0,-4.0,2018-06-30,team_tournament_e6bbcd3c0e91
+team_32e8419a7ecb,Peru,peru,wc_2018,2018,19.0,1975.0,2019.0,-44.0,2018-06-30,team_tournament_3515b200c208
+team_e9375700acbb,Denmark,denmark,wc_2018,2018,15.0,2014.0,1992.0,22.0,2018-06-30,team_tournament_9ea093a74989
+team_267640588a39,Croatia,croatia,wc_2018,2018,12.0,2036.0,1990.0,46.0,2018-06-30,team_tournament_baed7f3c9c5d
+team_f174114ad69e,Nigeria,nigeria,wc_2018,2018,47.0,1765.0,1745.0,20.0,2018-06-30,team_tournament_709c9de85b33
+team_53bcde0ca059,Costa Rica,costa rica,wc_2018,2018,37.0,1839.0,1880.0,-41.0,2018-06-30,team_tournament_e3cb5c003069
+team_a3867434e7dc,Serbia,serbia,wc_2018,2018,30.0,1875.0,1866.0,9.0,2018-06-30,team_tournament_9d626d30f7bc
+team_6e5fa4d9c48c,Brazil,brazil,wc_2018,2018,4.0,2160.0,2151.0,9.0,2018-06-30,team_tournament_13dd64dfd899
+team_0d9c575f4f02,Switzerland,switzerland,wc_2018,2018,8.0,2087.0,2065.0,22.0,2018-06-30,team_tournament_a005fcc06c84
+team_28ef36b35ae8,Germany,germany,wc_2018,2018,1.0,2172.0,2187.0,-15.0,2018-06-30,team_tournament_980d1cba4517
+team_4edfc924721a,Mexico,mexico,wc_2018,2018,10.0,2041.0,1996.0,45.0,2018-06-30,team_tournament_c7beac318086
+team_6b07fd4ea837,Tunisia,tunisia,wc_2018,2018,38.0,1835.0,1865.0,-30.0,2018-06-30,team_tournament_e36510b1d5b7
+team_f48861ca24e2,England,england,wc_2018,2018,7.0,2099.0,2074.0,25.0,2018-06-30,team_tournament_40b502560912
+team_88e52ee42fd0,Sweden,sweden,wc_2018,2018,21.0,1955.0,1954.0,1.0,2018-06-30,team_tournament_13b13449c355
+team_3c6cfbc2415a,Korea Republic,south korea,wc_2018,2018,51.0,1751.0,1783.0,-32.0,2018-06-30,team_tournament_239b1a7e234f
+team_73fa01094ea6,Belgium,belgium,wc_2018,2018,5.0,2124.0,2098.0,26.0,2018-06-30,team_tournament_d0a1c6901d31
+team_a0420c052acb,Panama,panama,wc_2018,2018,58.0,1723.0,1746.0,-23.0,2018-06-30,team_tournament_58fddac2aeca
+team_25446782e2cc,Colombia,colombia,wc_2018,2018,17.0,1998.0,2005.0,-7.0,2018-06-30,team_tournament_e7ad2d11c74c
+team_578ed5a4eecf,Japan,japan,wc_2018,2018,41.0,1816.0,1773.0,43.0,2018-06-30,team_tournament_4b7042c19bc0
+team_6f08c5ddcdd0,Poland,poland,wc_2018,2018,13.0,2023.0,2085.0,-62.0,2018-06-30,team_tournament_a49d8bf00b0d
+team_531ba498ac86,Senegal,senegal,wc_2018,2018,22.0,1938.0,1911.0,27.0,2018-06-30,team_tournament_66aa2ed948d1
+team_7d8ca47bbe17,Qatar,qatar,wc_2022,2022,49.0,1441.41,1441.41,0.0,2022-06-30,team_tournament_4b79d1f1e6ec
+team_2b4a1835a0aa,Ecuador,ecuador,wc_2022,2022,44.0,1463.74,1452.63,11.1099999999999,2022-06-30,team_tournament_2a7e7d1e4545
+team_152649df347e,United States,united states,wc_2022,2022,14.0,1635.01,1633.72,1.28999999999996,2022-06-30,team_tournament_fa06765951d6
+team_eea7530d166b,Wales,wales,wc_2022,2022,19.0,1582.13,1588.08,-5.94999999999982,2022-06-30,team_tournament_64125c74d927
+team_531ba498ac86,Senegal,senegal,wc_2022,2022,18.0,1593.45,1584.16,9.28999999999996,2022-06-30,team_tournament_f50ed0a84f59
+team_6123486432d2,Netherlands,netherlands,wc_2022,2022,8.0,1679.41,1658.66,20.75,2022-06-30,team_tournament_ba61dfb2c60c
+team_f48861ca24e2,England,england,wc_2022,2022,5.0,1737.46,1761.71,-24.25,2022-06-30,team_tournament_4626eb2879ae
+team_6f0a7d56c2cd,IR Iran,iran,wc_2022,2022,23.0,1558.64,1564.49,-5.84999999999991,2022-06-30,team_tournament_8316f43dce21
+team_e9375700acbb,Denmark,denmark,wc_2022,2022,10.0,1665.47,1653.6,11.8700000000001,2022-06-30,team_tournament_876e8908d019
+team_6b07fd4ea837,Tunisia,tunisia,wc_2022,2022,30.0,1507.86,1499.8,8.05999999999995,2022-06-30,team_tournament_97803b24d6e9
+team_2a52adc7b1da,Argentina,argentina,wc_2022,2022,3.0,1770.65,1765.13,5.51999999999998,2022-06-30,team_tournament_bcdf99d1dc60
+team_5318efec44d1,Saudi Arabia,saudi arabia,wc_2022,2022,53.0,1435.74,1444.69,-8.95000000000005,2022-06-30,team_tournament_6fa114be627a
+team_4edfc924721a,Mexico,mexico,wc_2022,2022,12.0,1649.57,1658.82,-9.25,2022-06-30,team_tournament_22c519eaafdb
+team_6f08c5ddcdd0,Poland,poland,wc_2022,2022,26.0,1546.18,1544.2,1.98000000000002,2022-06-30,team_tournament_897c9f6d4643
+team_e165d4f2174b,France,france,wc_2022,2022,4.0,1764.85,1789.85,-25.0,2022-06-30,team_tournament_d5524718d1b3
+team_fb2a54d63748,Australia,australia,wc_2022,2022,39.0,1483.73,1462.29,21.4400000000001,2022-06-30,team_tournament_8b08263f33f9
+team_28ef36b35ae8,Germany,germany,wc_2022,2022,11.0,1658.96,1650.53,8.43000000000006,2022-06-30,team_tournament_e413532f8b82
+team_578ed5a4eecf,Japan,japan,wc_2022,2022,24.0,1552.77,1553.44,-0.670000000000073,2022-06-30,team_tournament_cd5a467b6720
+team_217b6e5f0a09,Morocco,morocco,wc_2022,2022,22.0,1558.9,1551.88,7.01999999999998,2022-06-30,team_tournament_424180573ccd
+team_267640588a39,Croatia,croatia,wc_2022,2022,15.0,1632.15,1621.11,11.0400000000002,2022-06-30,team_tournament_f4ffb04d312c
+team_73fa01094ea6,Belgium,belgium,wc_2022,2022,2.0,1821.92,1827.0,-5.07999999999993,2022-06-30,team_tournament_cfa221de95e2
+team_c2aadac2ca30,Canada,canada,wc_2022,2022,43.0,1473.82,1479.0,-5.18000000000006,2022-06-30,team_tournament_9892885b18a5
+team_1747d4b2dd4b,Spain,spain,wc_2022,2022,6.0,1716.93,1709.19,7.74000000000001,2022-06-30,team_tournament_0d17058d8155
+team_53bcde0ca059,Costa Rica,costa rica,wc_2022,2022,34.0,1500.06,1503.09,-3.02999999999997,2022-06-30,team_tournament_74fc7344eae5
+team_0d9c575f4f02,Switzerland,switzerland,wc_2022,2022,16.0,1621.43,1635.32,-13.8899999999999,2022-06-30,team_tournament_a6bff53fdf7d
+team_9621cbb93d1b,Cameroon,cameroon,wc_2022,2022,38.0,1484.95,1480.48,4.47000000000003,2022-06-30,team_tournament_44d97be483be
+team_9142ac5b229c,Uruguay,uruguay,wc_2022,2022,13.0,1643.71,1635.73,7.98000000000002,2022-06-30,team_tournament_9b00b212509c
+team_3c6cfbc2415a,Korea Republic,south korea,wc_2022,2022,28.0,1526.2,1519.54,6.66000000000008,2022-06-30,team_tournament_3840790eec64
+team_ae0eea6eb6d6,Portugal,portugal,wc_2022,2022,9.0,1678.65,1674.78,3.87000000000012,2022-06-30,team_tournament_646c1bd4863a
+team_0e6049dbb2ce,Ghana,ghana,wc_2022,2022,60.0,1389.68,1387.36,2.32000000000016,2022-06-30,team_tournament_9d9629b9f049
+team_6e5fa4d9c48c,Brazil,brazil,wc_2022,2022,1.0,1837.56,1832.69,4.86999999999989,2022-06-30,team_tournament_b000942ef726
+team_a3867434e7dc,Serbia,serbia,wc_2022,2022,25.0,1549.53,1547.53,2.0,2022-06-30,team_tournament_b06be90e22cd
