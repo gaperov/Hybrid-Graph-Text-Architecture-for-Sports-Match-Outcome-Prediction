@@ -4,3 +4,5 @@ __pycache__
 .vscode
 .env
 .pytest_cache
+data/raw/text/guardian_articles_raw.jsonl
+data/raw/text/guardian_articles_raw.jsonl
