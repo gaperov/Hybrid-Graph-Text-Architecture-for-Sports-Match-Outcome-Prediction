@@ -1,0 +1,501 @@
+match_id,tournament_year,home_team_name,away_team_name,text_available,embedding_row
+match_24ab401684d2,1994,Germany,Bolivia,0,0
+match_38ef6f79f047,1994,Spain,Korea Republic,0,1
+match_ebe85d2cc918,1994,Colombia,Romania,0,2
+match_f0b250615ce7,1994,Italy,Republic of Ireland,0,3
+match_fd7cb15508dc,1994,United States,Switzerland,0,4
+match_3897d853493d,1994,Norway,Mexico,0,5
+match_6377cbad0489,1994,Belgium,Morocco,0,6
+match_d2e0539e728e,1994,Cameroon,Sweden,0,7
+match_806d967e8ad3,1994,Netherlands,Saudi Arabia,0,8
+match_d05bcda4412b,1994,Brazil,Russia,0,9
+match_189efb4101cb,1994,Argentina,Greece,0,10
+match_2d0cc7e5abec,1994,Germany,Spain,0,11
+match_762967b04973,1994,Nigeria,Bulgaria,0,12
+match_229dad14b68d,1994,United States,Colombia,0,13
+match_86262791d8b0,1994,Romania,Switzerland,0,14
+match_da74028c00ef,1994,Italy,Norway,0,15
+match_efbf2c71890b,1994,Korea Republic,Bolivia,0,16
+match_2d445ad34e7b,1994,Mexico,Republic of Ireland,0,17
+match_ad316d029fe3,1994,Brazil,Cameroon,0,18
+match_cc7287a21f6d,1994,Sweden,Russia,0,19
+match_6b6c67944fa7,1994,Belgium,Netherlands,0,20
+match_8358fe82bc85,1994,Argentina,Nigeria,0,21
+match_a54129842c0f,1994,Saudi Arabia,Morocco,0,22
+match_792bc8fa0a0f,1994,Bulgaria,Greece,0,23
+match_e678ab9610ab,1994,United States,Romania,0,24
+match_f4305f0ed4bf,1994,Switzerland,Colombia,0,25
+match_38bbb15073c3,1994,Germany,Korea Republic,0,26
+match_d37160b64734,1994,Bolivia,Spain,0,27
+match_4e49076d1d4e,1994,Brazil,Sweden,0,28
+match_54236a05204b,1994,Republic of Ireland,Norway,0,29
+match_9f20980a8406,1994,Russia,Cameroon,0,30
+match_bdb037251e36,1994,Italy,Mexico,0,31
+match_4b4ef7718e56,1994,Morocco,Netherlands,0,32
+match_9d34823d06eb,1994,Belgium,Saudi Arabia,0,33
+match_b6e00a3f05bc,1994,Argentina,Bulgaria,0,34
+match_f4238183936b,1994,Greece,Nigeria,0,35
+match_5bd553655f0a,1994,Germany,Belgium,0,36
+match_d385aaeed328,1994,Spain,Switzerland,0,37
+match_164ff7391f35,1994,Romania,Argentina,0,38
+match_e103ac2e6184,1994,Saudi Arabia,Sweden,0,39
+match_175701a3825e,1994,Netherlands,Republic of Ireland,0,40
+match_eb01019f7320,1994,Brazil,United States,0,41
+match_42c217b3cc23,1994,Nigeria,Italy,1,42
+match_80b1cbbb62c0,1994,Mexico,Bulgaria,0,43
+match_3b0d4347abde,1994,Netherlands,Brazil,0,44
+match_e230ad7cdd34,1994,Italy,Spain,0,45
+match_3b10b540c6b5,1994,Bulgaria,Germany,0,46
+match_3d563150e0f4,1994,Romania,Sweden,0,47
+match_4890e4e757d6,1994,Sweden,Brazil,0,48
+match_bdd6c99f8b32,1994,Bulgaria,Italy,0,49
+match_550a9cb22d7c,1994,Sweden,Bulgaria,0,50
+match_01a014e4b89e,1994,Brazil,Italy,0,51
+match_2cdd72b027ee,1998,Brazil,Scotland,0,52
+match_62a390b2e2d7,1998,Morocco,Norway,0,53
+match_36fb91d63eee,1998,Cameroon,Austria,0,54
+match_4f1ef457c8a9,1998,Italy,Chile,0,55
+match_04bc47ec20a4,1998,Saudi Arabia,Denmark,0,56
+match_a738a6939755,1998,Paraguay,Bulgaria,0,57
+match_adcf7f6165d9,1998,France,South Africa,0,58
+match_0aea764770d8,1998,Spain,Nigeria,0,59
+match_29583b2aa4b7,1998,Netherlands,Belgium,0,60
+match_723a55966ce2,1998,Korea Republic,Mexico,0,61
+match_10f7162f7217,1998,Argentina,Japan,0,62
+match_168ef1755264,1998,Jamaica,Croatia,0,63
+match_cd8a2c34b6c3,1998,FR Yugoslavia,IR Iran,0,64
+match_74212e4ef097,1998,England,Tunisia,0,65
+match_8617b9547284,1998,Germany,United States,0,66
+match_dc2e241416a9,1998,Romania,Colombia,0,67
+match_0d0c1a1e0015,1998,Brazil,Morocco,0,68
+match_e0f70299e203,1998,Scotland,Norway,0,69
+match_945cf8280e4d,1998,Chile,Austria,0,70
+match_f6f03be7625a,1998,Italy,Cameroon,0,71
+match_43701fb1c5e7,1998,France,Saudi Arabia,0,72
+match_b41b7a3ff191,1998,South Africa,Denmark,0,73
+match_57bb9d06a98a,1998,Spain,Paraguay,0,74
+match_b3c65c8078ab,1998,Nigeria,Bulgaria,0,75
+match_49e095b8737d,1998,Netherlands,Korea Republic,0,76
+match_51f3882816a2,1998,Japan,Croatia,0,77
+match_9d51213f33c7,1998,Belgium,Mexico,0,78
+match_70ee58dea2bd,1998,United States,IR Iran,0,79
+match_ac6ea9234af9,1998,Germany,FR Yugoslavia,0,80
+match_fe2c04550cb1,1998,Argentina,Jamaica,0,81
+match_0d6561bb04c1,1998,Colombia,Tunisia,0,82
+match_370a439a80ea,1998,Romania,England,0,83
+match_152435c399ba,1998,Brazil,Norway,0,84
+match_61e5ead6dc00,1998,Italy,Austria,0,85
+match_b6912701c80d,1998,Scotland,Morocco,0,86
+match_e8b2c17e89a7,1998,Chile,Cameroon,0,87
+match_733946f7c4e0,1998,France,Denmark,0,88
+match_b2ffdbe0572c,1998,South Africa,Saudi Arabia,0,89
+match_c5e0aa11786f,1998,Nigeria,Paraguay,0,90
+match_e858f52a390b,1998,Spain,Bulgaria,0,91
+match_831e637ec8d0,1998,Germany,IR Iran,0,92
+match_bc4c1777aa7f,1998,United States,FR Yugoslavia,0,93
+match_dea795876977,1998,Belgium,Korea Republic,0,94
+match_edfaddeaade5,1998,Netherlands,Mexico,0,95
+match_4ece18695b90,1998,Japan,Jamaica,0,96
+match_82acde461ac1,1998,Romania,Tunisia,0,97
+match_b551e53118dd,1998,Argentina,Croatia,0,98
+match_e15c24fcce5e,1998,Colombia,England,0,99
+match_2273d837665f,1998,Italy,Norway,0,100
+match_fd56593e22cc,1998,Brazil,Chile,0,101
+match_7bbbf6fbe55a,1998,Nigeria,Denmark,0,102
+match_9178161957da,1998,France,Paraguay,0,103
+match_4e6ab5b648f2,1998,Netherlands,FR Yugoslavia,0,104
+match_f364b861f53a,1998,Germany,Mexico,0,105
+match_6d5e0397b3fc,1998,Romania,Croatia,0,106
+match_a3f0db8f2f2e,1998,Argentina,England,0,107
+match_920ea64b49ef,1998,Brazil,Denmark,1,108
+match_da909e436d3d,1998,Italy,France,0,109
+match_39eb53cc7ad3,1998,Germany,Croatia,0,110
+match_aacbbf5bffdc,1998,Netherlands,Argentina,0,111
+match_5af1b6090116,1998,Brazil,Netherlands,0,112
+match_e60a6afef951,1998,France,Croatia,0,113
+match_4d5c2ac4360f,1998,Netherlands,Croatia,0,114
+match_5049ae65bc28,1998,Brazil,France,0,115
+match_8948f5133e4b,2002,France,Senegal,1,116
+match_0db415e98f71,2002,Republic of Ireland,Cameroon,1,117
+match_2a8ee4d1f85a,2002,Germany,Saudi Arabia,1,118
+match_f31005e39ada,2002,Uruguay,Denmark,1,119
+match_4723e3026faa,2002,Paraguay,South Africa,1,120
+match_607d5e485f7e,2002,Argentina,Nigeria,1,121
+match_81123ac7cc4b,2002,England,Sweden,1,122
+match_d9a37f3ca934,2002,Spain,Slovenia,1,123
+match_255b7f757d06,2002,Brazil,Türkiye,1,124
+match_cce69d805e70,2002,Croatia,Mexico,1,125
+match_ec61b6c7f764,2002,Italy,Ecuador,1,126
+match_0bf959084ecc,2002,Korea Republic,Poland,1,127
+match_340c61d114a1,2002,Japan,Belgium,1,128
+match_a0d494814181,2002,China PR,Costa Rica,1,129
+match_3c3e99a269a7,2002,Germany,Republic of Ireland,1,130
+match_8d642918dbc1,2002,Russia,Tunisia,1,131
+match_aa307d57e524,2002,United States,Portugal,1,132
+match_0a095c468341,2002,Denmark,Senegal,1,133
+match_23fd0e49f9e2,2002,Cameroon,Saudi Arabia,1,134
+match_669c128e4a50,2002,France,Uruguay,0,135
+match_07078c9899b2,2002,Sweden,Nigeria,1,136
+match_7d7b0f8a755c,2002,Spain,Paraguay,1,137
+match_a130ee6c2013,2002,Argentina,England,0,138
+match_0cef2502a396,2002,Brazil,China PR,0,139
+match_781473efcf16,2002,Italy,Croatia,1,140
+match_931d0218811c,2002,South Africa,Slovenia,1,141
+match_13f35b83c3c9,2002,Mexico,Ecuador,1,142
+match_4c90442ab713,2002,Costa Rica,Türkiye,1,143
+match_d7648dcecd35,2002,Japan,Russia,1,144
+match_08f58c6fc11f,2002,Portugal,Poland,1,145
+match_6e5289d2f41f,2002,Tunisia,Belgium,1,146
+match_7cc380e864c6,2002,Korea Republic,United States,1,147
+match_b4ac276130b3,2002,Cameroon,Germany,1,148
+match_d088ca54f510,2002,Senegal,Uruguay,1,149
+match_e7e4f657dcaf,2002,Saudi Arabia,Republic of Ireland,1,150
+match_f7b2556ecc89,2002,Denmark,France,1,151
+match_5766caa91659,2002,Nigeria,England,1,152
+match_82bece52e71b,2002,Slovenia,Paraguay,1,153
+match_886739ba8bf2,2002,South Africa,Spain,1,154
+match_cb7415f79d14,2002,Sweden,Argentina,1,155
+match_61f0ace8ff03,2002,Ecuador,Croatia,1,156
+match_8ecce82c8eda,2002,Costa Rica,Brazil,1,157
+match_b0cdbad2c6c9,2002,Türkiye,China PR,0,158
+match_be8572f6590b,2002,Mexico,Italy,1,159
+match_01251b086132,2002,Portugal,Korea Republic,0,160
+match_67324df48fec,2002,Belgium,Russia,1,161
+match_8617b73ee2cd,2002,Tunisia,Japan,1,162
+match_eb85ef12a53f,2002,Poland,United States,1,163
+match_595672cad1b4,2002,Denmark,England,1,164
+match_61049cb3f9ee,2002,Germany,Paraguay,1,165
+match_0ecac6b8d200,2002,Spain,Republic of Ireland,1,166
+match_8f81cf223f3d,2002,Sweden,Senegal,1,167
+match_29a2e4136c35,2002,Mexico,United States,1,168
+match_df2fb25ad4d4,2002,Brazil,Belgium,1,169
+match_574344bb2774,2002,Korea Republic,Italy,0,170
+match_6d87f8f037d5,2002,Japan,Türkiye,1,171
+match_749f59bc5761,2002,England,Brazil,1,172
+match_8807d0df4379,2002,Germany,United States,1,173
+match_9d1da697a735,2002,Senegal,Türkiye,1,174
+match_c6299efffdc0,2002,Spain,Korea Republic,1,175
+match_8b6358ac259c,2002,Germany,Korea Republic,1,176
+match_614c8e1c75b8,2002,Brazil,Türkiye,1,177
+match_1a9c646d5db1,2002,Korea Republic,Türkiye,0,178
+match_932b71124d7d,2002,Germany,Brazil,1,179
+match_d75b0bb2f95f,2006,Poland,Ecuador,1,180
+match_fe9c28bc18ee,2006,Germany,Costa Rica,1,181
+match_6c8cbc651fdf,2006,Trinidad and Tobago,Sweden,1,182
+match_b243e950ab4b,2006,England,Paraguay,1,183
+match_cc0c51ba5289,2006,Argentina,Côte d'Ivoire,1,184
+match_33fd6e2db93f,2006,Serbia and Montenegro,Netherlands,1,185
+match_63e9d3fabc82,2006,Angola,Portugal,1,186
+match_cc88a33d38d6,2006,Mexico,IR Iran,1,187
+match_a8c6c8a927d0,2006,United States,Czech Republic,1,188
+match_d465baf8eb74,2006,Australia,Japan,0,189
+match_e73bd5e6e2d4,2006,Italy,Ghana,1,190
+match_0d52a080bdb5,2006,France,Switzerland,1,191
+match_31ddb24a91dc,2006,Korea Republic,Togo,1,192
+match_febeb3cb5810,2006,Brazil,Croatia,1,193
+match_5a05d0019ce8,2006,Germany,Poland,1,194
+match_a6119577f852,2006,Tunisia,Saudi Arabia,1,195
+match_d3d4f124f4a9,2006,Spain,Ukraine,1,196
+match_2a7605df17ec,2006,Sweden,Paraguay,1,197
+match_6f3dd66f48dc,2006,Ecuador,Costa Rica,0,198
+match_baeadaa41a02,2006,England,Trinidad and Tobago,1,199
+match_5cf205759a7f,2006,Argentina,Serbia and Montenegro,0,200
+match_b9a51e9f42fe,2006,Netherlands,Côte d'Ivoire,1,201
+match_deb965ff8a96,2006,Mexico,Angola,1,202
+match_5b4818db4d78,2006,Czech Republic,Ghana,1,203
+match_bbb96a3d63c1,2006,Italy,United States,0,204
+match_e6114a99f065,2006,Portugal,IR Iran,1,205
+match_306d93259f57,2006,Brazil,Australia,1,206
+match_9a8b1fd50058,2006,France,Korea Republic,1,207
+match_bd54565fc93d,2006,Japan,Croatia,1,208
+match_0435f87a7656,2006,Saudi Arabia,Ukraine,1,209
+match_9761a60af99a,2006,Spain,Tunisia,0,210
+match_c85103947e3c,2006,Togo,Switzerland,1,211
+match_4171ed24076f,2006,Costa Rica,Poland,1,212
+match_a0a157f8c41c,2006,Ecuador,Germany,1,213
+match_d9bb9289e65c,2006,Paraguay,Trinidad and Tobago,1,214
+match_f94999092deb,2006,Sweden,England,1,215
+match_1164a9bfe08c,2006,Portugal,Mexico,1,216
+match_1e99146b3c91,2006,Netherlands,Argentina,1,217
+match_82f0f9b95adc,2006,Côte d'Ivoire,Serbia and Montenegro,1,218
+match_a3e6a7e02a67,2006,IR Iran,Angola,1,219
+match_3c00552af33e,2006,Czech Republic,Italy,1,220
+match_6813a0176740,2006,Japan,Brazil,1,221
+match_98a0c8b17fd4,2006,Ghana,United States,1,222
+match_ac52be12144c,2006,Croatia,Australia,0,223
+match_be35a6aae715,2006,Switzerland,Korea Republic,0,224
+match_d0a46aaf2220,2006,Ukraine,Tunisia,1,225
+match_fbabf3159258,2006,Togo,France,0,226
+match_fd4a86bddd13,2006,Saudi Arabia,Spain,0,227
+match_67a851a52c83,2006,Germany,Sweden,0,228
+match_c9751c7e8d8d,2006,Argentina,Mexico,0,229
+match_0c039f3ab488,2006,Portugal,Netherlands,0,230
+match_b572903f7d7d,2006,England,Ecuador,0,231
+match_d25a247a9cd7,2006,Italy,Australia,0,232
+match_f636dddc05be,2006,Switzerland,Ukraine,0,233
+match_9a893538765c,2006,Brazil,Ghana,0,234
+match_fdb439a16f8e,2006,Spain,France,0,235
+match_44da8feeb787,2006,Germany,Argentina,0,236
+match_65458d2354f8,2006,Italy,Ukraine,0,237
+match_60cd60b8a67d,2006,Brazil,France,0,238
+match_d73016c72b28,2006,England,Portugal,0,239
+match_84c7e40f97db,2006,Germany,Italy,0,240
+match_76b5c53961d9,2006,Portugal,France,0,241
+match_638181c9547c,2006,Germany,Portugal,0,242
+match_b1738fd6b9f0,2006,Italy,France,0,243
+match_4beb55d47895,2010,Uruguay,France,1,244
+match_6d332de38379,2010,South Africa,Mexico,1,245
+match_885c05d1c460,2010,Argentina,Nigeria,1,246
+match_ae6b0b15a6dd,2010,England,United States,1,247
+match_fe3a29a7cf62,2010,Korea Republic,Greece,1,248
+match_56390ace74bb,2010,Algeria,Slovenia,1,249
+match_89764594046d,2010,Serbia,Ghana,1,250
+match_94fde855b459,2010,Germany,Australia,1,251
+match_5382383d6aa2,2010,Japan,Cameroon,1,252
+match_eeb53d2390c7,2010,Italy,Paraguay,1,253
+match_f18d80c33b2b,2010,Netherlands,Denmark,1,254
+match_1977cbf2cc74,2010,Côte d'Ivoire,Portugal,1,255
+match_e78216e488ee,2010,Brazil,Korea DPR,1,256
+match_ea8c05901d08,2010,New Zealand,Slovakia,1,257
+match_27b38c67ec93,2010,Spain,Switzerland,1,258
+match_3c2aedac227a,2010,Honduras,Chile,0,259
+match_e560b3090f89,2010,South Africa,Uruguay,1,260
+match_8730b3125e08,2010,Argentina,Korea Republic,1,261
+match_9f9f67653593,2010,France,Mexico,1,262
+match_b2888b412979,2010,Greece,Nigeria,1,263
+match_39d66294377e,2010,England,Algeria,1,264
+match_79c4506c4b7d,2010,Germany,Serbia,1,265
+match_ba6495ae6246,2010,Slovenia,United States,1,266
+match_0be0eaff9e8e,2010,Netherlands,Japan,1,267
+match_7e82d87f3a4b,2010,Ghana,Australia,1,268
+match_91bb402cf679,2010,Cameroon,Denmark,1,269
+match_7f60aa7d5e32,2010,Slovakia,Paraguay,1,270
+match_94055b3e8e99,2010,Italy,New Zealand,1,271
+match_e4042d5d85f2,2010,Brazil,Côte d'Ivoire,1,272
+match_3ad001a7fb1c,2010,Spain,Honduras,1,273
+match_bede7c3ffa53,2010,Portugal,Korea DPR,1,274
+match_c68a3e002ce8,2010,Chile,Switzerland,0,275
+match_0d076caccb87,2010,Mexico,Uruguay,1,276
+match_1537ccc2a672,2010,Nigeria,Korea Republic,1,277
+match_338cda044346,2010,Greece,Argentina,1,278
+match_b68fe9abf7b9,2010,France,South Africa,1,279
+match_5c191ca8ec29,2010,Australia,Serbia,1,280
+match_806e35ee952d,2010,Ghana,Germany,1,281
+match_9f02cbd7620c,2010,United States,Algeria,1,282
+match_ec19cb1f0a83,2010,Slovenia,England,1,283
+match_1514027a6cf6,2010,Paraguay,New Zealand,1,284
+match_2874d7ca4e82,2010,Denmark,Japan,1,285
+match_bbd880da561d,2010,Slovakia,Italy,1,286
+match_e16b84b5546c,2010,Cameroon,Netherlands,1,287
+match_442e342d0e52,2010,Portugal,Brazil,1,288
+match_9f556e1cb2e6,2010,Korea DPR,Côte d'Ivoire,1,289
+match_e8451e4f4485,2010,Switzerland,Honduras,1,290
+match_f522f09dcf58,2010,Chile,Spain,0,291
+match_03eb11d0c4d7,2010,Uruguay,Korea Republic,1,292
+match_7872d18223b6,2010,United States,Ghana,1,293
+match_2c9abbe9217a,2010,Argentina,Mexico,1,294
+match_dd3b8e53aa37,2010,Germany,England,1,295
+match_7fd5081d7dec,2010,Brazil,Chile,1,296
+match_ab321278d453,2010,Netherlands,Slovakia,1,297
+match_63657d25b8f0,2010,Spain,Portugal,1,298
+match_9125989e616d,2010,Paraguay,Japan,1,299
+match_c024bf96d2fb,2010,Netherlands,Brazil,1,300
+match_fbd6bd67d7cc,2010,Uruguay,Ghana,1,301
+match_64557be68652,2010,Argentina,Germany,1,302
+match_ea16d09ac01d,2010,Paraguay,Spain,1,303
+match_07ef6142599e,2010,Uruguay,Netherlands,1,304
+match_91fb4922b109,2010,Germany,Spain,1,305
+match_deb597f21c88,2010,Uruguay,Germany,1,306
+match_c61afec22572,2010,Netherlands,Spain,1,307
+match_5b60f0641bad,2014,Brazil,Croatia,1,308
+match_09fd16763f30,2014,Mexico,Cameroon,1,309
+match_54ccf64c3466,2014,Chile,Australia,1,310
+match_e174c217ca8c,2014,Spain,Netherlands,1,311
+match_3483c1b1f8ab,2014,England,Italy,1,312
+match_529113984825,2014,Colombia,Greece,1,313
+match_7c2ebf021375,2014,Uruguay,Costa Rica,1,314
+match_a70f288e9051,2014,Côte d'Ivoire,Japan,1,315
+match_1853e0ec2367,2014,Argentina,Bosnia and Herzegovina,1,316
+match_83ba1bd24b20,2014,Switzerland,Ecuador,1,317
+match_b17b30e087df,2014,France,Honduras,1,318
+match_23031242a3e5,2014,IR Iran,Nigeria,1,319
+match_60e6c6b7aa39,2014,Ghana,United States,1,320
+match_fe32ec6ff3f6,2014,Germany,Portugal,1,321
+match_1a443ae9599e,2014,Brazil,Mexico,1,322
+match_4f8bcd68f967,2014,Belgium,Algeria,1,323
+match_ad6ee42f2c86,2014,Russia,Korea Republic,1,324
+match_4e7a74bf439f,2014,Australia,Netherlands,1,325
+match_b9b6c3903e25,2014,Spain,Chile,0,326
+match_fcac5f653d27,2014,Cameroon,Croatia,1,327
+match_8859b9bdf149,2014,Uruguay,England,1,328
+match_8f8d05ca976d,2014,Colombia,Côte d'Ivoire,1,329
+match_f8c618d27fea,2014,Japan,Greece,1,330
+match_435b4fa4d41c,2014,Italy,Costa Rica,1,331
+match_760967257c31,2014,Switzerland,France,1,332
+match_9c481f24a2af,2014,Honduras,Ecuador,0,333
+match_131667a8ee0a,2014,Nigeria,Bosnia and Herzegovina,1,334
+match_376fe34133bc,2014,Germany,Ghana,1,335
+match_f5a65ca051f6,2014,Argentina,IR Iran,1,336
+match_0ae6a66c903c,2014,Belgium,Russia,1,337
+match_8f32e289eb02,2014,Korea Republic,Algeria,1,338
+match_f545ef1c7f8e,2014,United States,Portugal,1,339
+match_2de6ade34a91,2014,Cameroon,Brazil,1,340
+match_32b62c135eb4,2014,Australia,Spain,1,341
+match_3d144e2b8034,2014,Netherlands,Chile,1,342
+match_b9380a0838b2,2014,Croatia,Mexico,1,343
+match_231789735959,2014,Greece,Côte d'Ivoire,1,344
+match_2716508b2b4a,2014,Japan,Colombia,1,345
+match_304e6aeb2f35,2014,Costa Rica,England,1,346
+match_e19f884f2939,2014,Italy,Uruguay,1,347
+match_0f2ee5b0ebbe,2014,Bosnia and Herzegovina,IR Iran,1,348
+match_7cfd0b5d724b,2014,Nigeria,Argentina,1,349
+match_a8eccea05550,2014,Ecuador,France,1,350
+match_f43d86bc5853,2014,Honduras,Switzerland,1,351
+match_02de699b385f,2014,Algeria,Russia,1,352
+match_8cacd05354c7,2014,United States,Germany,1,353
+match_b4a906c06b36,2014,Portugal,Ghana,1,354
+match_c4e30915b07a,2014,Korea Republic,Belgium,1,355
+match_97beb2c0abf6,2014,Colombia,Uruguay,1,356
+match_fc4153250beb,2014,Brazil,Chile,1,357
+match_3ed03dda300e,2014,Netherlands,Mexico,1,358
+match_704cd06ebef4,2014,Costa Rica,Greece,1,359
+match_11b2b086a7a2,2014,Germany,Algeria,1,360
+match_4eaa4ed24884,2014,France,Nigeria,1,361
+match_1624c05d84d5,2014,Belgium,United States,1,362
+match_7536c5fcec04,2014,Argentina,Switzerland,1,363
+match_0db17203721c,2014,Brazil,Colombia,1,364
+match_f4a412ff86c5,2014,France,Germany,1,365
+match_1156c5240a4d,2014,Netherlands,Costa Rica,1,366
+match_7ba552fb3136,2014,Argentina,Belgium,1,367
+match_88fce0d27641,2014,Brazil,Germany,1,368
+match_8acd040814e4,2014,Netherlands,Argentina,1,369
+match_981ed82b46e3,2014,Brazil,Netherlands,1,370
+match_38b774cccd8e,2014,Germany,Argentina,1,371
+match_3ee0a05214bf,2018,Russia,Saudi Arabia,1,372
+match_0a7804398319,2018,Portugal,Spain,1,373
+match_53a59c1e0e89,2018,Morocco,IR Iran,1,374
+match_b0d45a81a705,2018,Egypt,Uruguay,1,375
+match_3bcb591a98d4,2018,Argentina,Iceland,1,376
+match_9b0ea3645d86,2018,France,Australia,1,377
+match_da374afb34d9,2018,Peru,Denmark,0,378
+match_ec264ee559d5,2018,Croatia,Nigeria,1,379
+match_9fbdf92a893f,2018,Costa Rica,Serbia,1,380
+match_aaf4d1675b3a,2018,Brazil,Switzerland,0,381
+match_d3ee8b6c44dd,2018,Germany,Mexico,1,382
+match_06198cd0fb13,2018,Tunisia,England,1,383
+match_572d7016aa64,2018,Sweden,Korea Republic,1,384
+match_65b8c1aee673,2018,Belgium,Panama,1,385
+match_648d2eb7c77f,2018,Russia,Egypt,1,386
+match_79568af28597,2018,Colombia,Japan,0,387
+match_7d9ca90e5b03,2018,Poland,Senegal,0,388
+match_2b0bd7d307f0,2018,IR Iran,Spain,1,389
+match_38fd381f3124,2018,Uruguay,Saudi Arabia,1,390
+match_abb937e79d81,2018,Portugal,Morocco,0,391
+match_319089ab251b,2018,Argentina,Croatia,1,392
+match_6d79d7ca8a1b,2018,Denmark,Australia,1,393
+match_f97c996012f7,2018,France,Peru,0,394
+match_296edf8375b4,2018,Brazil,Costa Rica,1,395
+match_49fb6aec15d0,2018,Serbia,Switzerland,0,396
+match_d0baa25e6177,2018,Nigeria,Iceland,1,397
+match_0588ac4e30ba,2018,Korea Republic,Mexico,1,398
+match_18ebad8f7639,2018,Germany,Sweden,1,399
+match_8c94ce90e80f,2018,Belgium,Tunisia,1,400
+match_41484766a024,2018,Japan,Senegal,1,401
+match_9e43a0cec3c5,2018,England,Panama,1,402
+match_bb17aa334f28,2018,Poland,Colombia,0,403
+match_0f36d73d65c8,2018,Spain,Morocco,1,404
+match_1fbf5f0a51d7,2018,Uruguay,Russia,1,405
+match_25a2e81828a3,2018,IR Iran,Portugal,1,406
+match_5b747b0e49cf,2018,Saudi Arabia,Egypt,0,407
+match_1bf35de0cbe7,2018,Australia,Peru,1,408
+match_3f6b48076f53,2018,Denmark,France,0,409
+match_6ce3ad5c8865,2018,Iceland,Croatia,1,410
+match_b7ce46c1326b,2018,Nigeria,Argentina,1,411
+match_ad8f2e06acf7,2018,Mexico,Sweden,1,412
+match_b92ed8c03128,2018,Korea Republic,Germany,1,413
+match_cd6ff4b60143,2018,Serbia,Brazil,1,414
+match_db321bc52421,2018,Switzerland,Costa Rica,0,415
+match_bacbdd41e1c5,2018,England,Belgium,1,416
+match_d37c0be156bf,2018,Japan,Poland,1,417
+match_d506374daedc,2018,Senegal,Colombia,0,418
+match_e355173b2119,2018,Panama,Tunisia,1,419
+match_2152dc6722fc,2018,France,Argentina,1,420
+match_c95fcb26c8f6,2018,Uruguay,Portugal,1,421
+match_093b3fb1da43,2018,Croatia,Denmark,1,422
+match_12447a7936fa,2018,Spain,Russia,0,423
+match_c027002616be,2018,Brazil,Mexico,1,424
+match_f326a4333407,2018,Belgium,Japan,1,425
+match_16dfecb0aae9,2018,Colombia,England,1,426
+match_a00f26836263,2018,Sweden,Switzerland,1,427
+match_46d19cfbd60f,2018,Brazil,Belgium,1,428
+match_67f243351ead,2018,Uruguay,France,1,429
+match_0457052e18ac,2018,Russia,Croatia,1,430
+match_2965008e4de4,2018,Sweden,England,1,431
+match_22bdaedac849,2018,France,Belgium,1,432
+match_cfc25d034528,2018,Croatia,England,1,433
+match_48d908273829,2018,Belgium,England,1,434
+match_f5d39f2a6e9a,2018,France,Croatia,1,435
+match_eba59d5d01d0,2022,Qatar,Ecuador,1,436
+match_0a8f5c4a4766,2022,United States,Wales,1,437
+match_80a4ca985d2c,2022,Senegal,Netherlands,1,438
+match_a64cba8917b3,2022,England,IR Iran,0,439
+match_281c5a33aca4,2022,Denmark,Tunisia,0,440
+match_2d2fb2173ae5,2022,Argentina,Saudi Arabia,1,441
+match_76928775501c,2022,Mexico,Poland,0,442
+match_f3510c7f2963,2022,France,Australia,1,443
+match_07e3c71a8b3f,2022,Germany,Japan,1,444
+match_3fab3e97aa68,2022,Morocco,Croatia,1,445
+match_6012dfda6087,2022,Belgium,Canada,0,446
+match_ceb0b4724a4c,2022,Spain,Costa Rica,1,447
+match_19fd9f42dc66,2022,Switzerland,Cameroon,1,448
+match_1e78cdccfaf3,2022,Uruguay,Korea Republic,0,449
+match_8ddd14644e7d,2022,Portugal,Ghana,0,450
+match_9e641e38ec9a,2022,Brazil,Serbia,0,451
+match_29c08dea111e,2022,England,United States,1,452
+match_46f196403397,2022,Wales,IR Iran,0,453
+match_e6fe4bbca268,2022,Qatar,Senegal,1,454
+match_e829a80223bc,2022,Netherlands,Ecuador,1,455
+match_4d58b298d2af,2022,Argentina,Mexico,1,456
+match_5ae2ed674a87,2022,Tunisia,Australia,1,457
+match_5eafcf496399,2022,France,Denmark,0,458
+match_e17641dd871d,2022,Poland,Saudi Arabia,1,459
+match_1e1fca843881,2022,Croatia,Canada,1,460
+match_277670442203,2022,Spain,Germany,1,461
+match_3486e75b0605,2022,Belgium,Morocco,0,462
+match_420ff494a43e,2022,Japan,Costa Rica,1,463
+match_03a870591a86,2022,Korea Republic,Ghana,1,464
+match_6f2b5423688b,2022,Cameroon,Serbia,1,465
+match_7bee89ecf7bd,2022,Brazil,Switzerland,1,466
+match_ac917798a039,2022,Portugal,Uruguay,1,467
+match_b01bb9eba5aa,2022,IR Iran,United States,1,468
+match_cbfd905e8889,2022,Ecuador,Senegal,1,469
+match_cedcf59ba09f,2022,Netherlands,Qatar,0,470
+match_f0f70bcdba1b,2022,Wales,England,1,471
+match_16528982bbc1,2022,Australia,Denmark,1,472
+match_2f53e659c715,2022,Tunisia,France,1,473
+match_36bb02f73202,2022,Saudi Arabia,Mexico,1,474
+match_827f605a660e,2022,Poland,Argentina,0,475
+match_aae822025db9,2022,Costa Rica,Germany,1,476
+match_b0d6f8d367f2,2022,Canada,Morocco,0,477
+match_cfee9e4bb553,2022,Japan,Spain,0,478
+match_ffa69018da51,2022,Croatia,Belgium,0,479
+match_6eb13a82ec7c,2022,Korea Republic,Portugal,1,480
+match_8891748ec8e3,2022,Ghana,Uruguay,1,481
+match_d71f633f94b5,2022,Serbia,Switzerland,1,482
+match_f47983c49068,2022,Cameroon,Brazil,1,483
+match_a4a299f14514,2022,Argentina,Australia,1,484
+match_a715603082f9,2022,Netherlands,United States,1,485
+match_28f173583db1,2022,England,Senegal,1,486
+match_9f7f3ca727b4,2022,France,Poland,1,487
+match_cfd60b625822,2022,Japan,Croatia,1,488
+match_db2c7f8ef3f9,2022,Brazil,Korea Republic,1,489
+match_a7ebe23071da,2022,Morocco,Spain,1,490
+match_fe8b12eea490,2022,Portugal,Switzerland,1,491
+match_2f915033f4e3,2022,Netherlands,Argentina,1,492
+match_9d2b8b48fb90,2022,Croatia,Brazil,1,493
+match_8f666bec6225,2022,Morocco,Portugal,1,494
+match_eb04f9fd8d79,2022,England,France,1,495
+match_f6887b5f5d6f,2022,Argentina,Croatia,1,496
+match_ebf4a0fe598d,2022,France,Morocco,1,497
+match_c50654aea08c,2022,Croatia,Morocco,1,498
+match_438f9a929e58,2022,Argentina,France,1,499
