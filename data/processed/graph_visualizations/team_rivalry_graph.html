@@ -1,0 +1,163 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"font": {"color": "#222222"}, "group": "Team", "id": "team_28ef36b35ae8", "label": "Germany", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eGermany\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_28ef36b35ae8\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_1747d4b2dd4b", "label": "Spain", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eSpain\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_1747d4b2dd4b\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_25446782e2cc", "label": "Colombia", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eColombia\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_25446782e2cc\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_bab4ac375ada", "label": "Italy", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eItaly\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_bab4ac375ada\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_152649df347e", "label": "United States", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eUnited States\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_152649df347e\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_e6e6854f6b71", "label": "Norway", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eNorway\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_e6e6854f6b71\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_73fa01094ea6", "label": "Belgium", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eBelgium\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_73fa01094ea6\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_9621cbb93d1b", "label": "Cameroon", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eCameroon\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_9621cbb93d1b\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_6123486432d2", "label": "Netherlands", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eNetherlands\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_6123486432d2\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_6e5fa4d9c48c", "label": "Brazil", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eBrazil\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_6e5fa4d9c48c\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_2a52adc7b1da", "label": "Argentina", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eArgentina\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_2a52adc7b1da\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_f174114ad69e", "label": "Nigeria", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eNigeria\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_f174114ad69e\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_89055f975d7d", "label": "Romania", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eRomania\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_89055f975d7d\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_3c6cfbc2415a", "label": "Korea Republic", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eKorea Republic\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_3c6cfbc2415a\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_4edfc924721a", "label": "Mexico", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eMexico\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_4edfc924721a\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_88e52ee42fd0", "label": "Sweden", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eSweden\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_88e52ee42fd0\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_db5f14430304", "label": "Bulgaria", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eBulgaria\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_db5f14430304\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_0d9c575f4f02", "label": "Switzerland", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eSwitzerland\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_0d9c575f4f02\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_1c625cc86f82", "label": "Russia", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eRussia\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_1c625cc86f82\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_217b6e5f0a09", "label": "Morocco", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eMorocco\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_217b6e5f0a09\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_40bdb0601848", "label": "Greece", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eGreece\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_40bdb0601848\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_3bafbfd8bf5e", "label": "Paraguay", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eParaguay\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_3bafbfd8bf5e\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_e165d4f2174b", "label": "France", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eFrance\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_e165d4f2174b\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_f48861ca24e2", "label": "England", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eEngland\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_f48861ca24e2\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_fd317045cbdc", "label": "Chile", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eChile\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_fd317045cbdc\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_c814068bbc92", "label": "South Africa", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eSouth Africa\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_c814068bbc92\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_578ed5a4eecf", "label": "Japan", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eJapan\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_578ed5a4eecf\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_9142ac5b229c", "label": "Uruguay", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eUruguay\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_9142ac5b229c\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_267640588a39", "label": "Croatia", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eCroatia\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_267640588a39\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_e9375700acbb", "label": "Denmark", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eDenmark\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_e9375700acbb\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_53bcde0ca059", "label": "Costa Rica", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eCosta Rica\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_53bcde0ca059\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_ae0eea6eb6d6", "label": "Portugal", "shape": "dot", "size": 25.0, "title": "\u003cb\u003ePortugal\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_ae0eea6eb6d6\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_6b07fd4ea837", "label": "Tunisia", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eTunisia\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_6b07fd4ea837\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_bb3db6b18c5c", "label": "T\u00fcrkiye", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eT\u00fcrkiye\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_bb3db6b18c5c\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_fb2a54d63748", "label": "Australia", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eAustralia\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_fb2a54d63748\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_6f0a7d56c2cd", "label": "IR Iran", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eIR Iran\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_6f0a7d56c2cd\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_0e6049dbb2ce", "label": "Ghana", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eGhana\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_0e6049dbb2ce\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_a3867434e7dc", "label": "Serbia", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eSerbia\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_a3867434e7dc\u003cbr\u003eTournament year: None"}, {"font": {"color": "#222222"}, "group": "Team", "id": "team_1e28fe23fb14", "label": "Honduras", "shape": "dot", "size": 25.0, "title": "\u003cb\u003eHonduras\u003c/b\u003e\u003cbr\u003eType: Team\u003cbr\u003eID: team_1e28fe23fb14\u003cbr\u003eTournament year: None"}]);
+                  edges = new vis.DataSet([{"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_0e6049dbb2ce", "value": 2.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_152649df347e", "value": 3.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_1747d4b2dd4b", "value": 3.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_2a52adc7b1da", "value": 3.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_3c6cfbc2415a", "value": 3.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_4edfc924721a", "value": 2.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_53bcde0ca059", "value": 2.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6e5fa4d9c48c", "value": 2.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_88e52ee42fd0", "value": 2.0}, {"from": "team_28ef36b35ae8", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_ae0eea6eb6d6", "value": 2.0}, {"from": "team_1747d4b2dd4b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_0d9c575f4f02", "value": 2.0}, {"from": "team_1747d4b2dd4b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_217b6e5f0a09", "value": 2.0}, {"from": "team_1747d4b2dd4b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_3bafbfd8bf5e", "value": 3.0}, {"from": "team_1747d4b2dd4b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_3c6cfbc2415a", "value": 2.0}, {"from": "team_1747d4b2dd4b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6123486432d2", "value": 2.0}, {"from": "team_1747d4b2dd4b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_ae0eea6eb6d6", "value": 2.0}, {"from": "team_1747d4b2dd4b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_fd317045cbdc", "value": 2.0}, {"from": "team_25446782e2cc", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_578ed5a4eecf", "value": 2.0}, {"from": "team_25446782e2cc", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_89055f975d7d", "value": 2.0}, {"from": "team_25446782e2cc", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_f48861ca24e2", "value": 2.0}, {"from": "team_bab4ac375ada", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_4edfc924721a", "value": 2.0}, {"from": "team_bab4ac375ada", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_e165d4f2174b", "value": 2.0}, {"from": "team_bab4ac375ada", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_e6e6854f6b71", "value": 2.0}, {"from": "team_152649df347e", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_0e6049dbb2ce", "value": 3.0}, {"from": "team_152649df347e", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6f0a7d56c2cd", "value": 2.0}, {"from": "team_152649df347e", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_ae0eea6eb6d6", "value": 2.0}, {"from": "team_152649df347e", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_f48861ca24e2", "value": 2.0}, {"from": "team_73fa01094ea6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_1c625cc86f82", "value": 2.0}, {"from": "team_73fa01094ea6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_217b6e5f0a09", "value": 2.0}, {"from": "team_73fa01094ea6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_3c6cfbc2415a", "value": 2.0}, {"from": "team_73fa01094ea6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_578ed5a4eecf", "value": 2.0}, {"from": "team_73fa01094ea6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6123486432d2", "value": 2.0}, {"from": "team_73fa01094ea6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6b07fd4ea837", "value": 2.0}, {"from": "team_73fa01094ea6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6e5fa4d9c48c", "value": 2.0}, {"from": "team_73fa01094ea6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_f48861ca24e2", "value": 2.0}, {"from": "team_9621cbb93d1b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6e5fa4d9c48c", "value": 3.0}, {"from": "team_6123486432d2", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_2a52adc7b1da", "value": 4.0}, {"from": "team_6123486432d2", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_4edfc924721a", "value": 2.0}, {"from": "team_6123486432d2", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6e5fa4d9c48c", "value": 4.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_0d9c575f4f02", "value": 2.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_267640588a39", "value": 3.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_4edfc924721a", "value": 2.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_53bcde0ca059", "value": 2.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_88e52ee42fd0", "value": 2.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_a3867434e7dc", "value": 2.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_bb3db6b18c5c", "value": 2.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_e165d4f2174b", "value": 2.0}, {"from": "team_6e5fa4d9c48c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_fd317045cbdc", "value": 3.0}, {"from": "team_2a52adc7b1da", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_267640588a39", "value": 3.0}, {"from": "team_2a52adc7b1da", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_40bdb0601848", "value": 2.0}, {"from": "team_2a52adc7b1da", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_4edfc924721a", "value": 3.0}, {"from": "team_2a52adc7b1da", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_e165d4f2174b", "value": 2.0}, {"from": "team_2a52adc7b1da", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_f174114ad69e", "value": 5.0}, {"from": "team_2a52adc7b1da", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_f48861ca24e2", "value": 2.0}, {"from": "team_f174114ad69e", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_40bdb0601848", "value": 2.0}, {"from": "team_f174114ad69e", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_db5f14430304", "value": 2.0}, {"from": "team_3c6cfbc2415a", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_4edfc924721a", "value": 2.0}, {"from": "team_3c6cfbc2415a", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_9142ac5b229c", "value": 2.0}, {"from": "team_3c6cfbc2415a", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_ae0eea6eb6d6", "value": 2.0}, {"from": "team_4edfc924721a", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_267640588a39", "value": 2.0}, {"from": "team_88e52ee42fd0", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_f48861ca24e2", "value": 3.0}, {"from": "team_0d9c575f4f02", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_1e28fe23fb14", "value": 2.0}, {"from": "team_0d9c575f4f02", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_a3867434e7dc", "value": 2.0}, {"from": "team_0d9c575f4f02", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_e165d4f2174b", "value": 2.0}, {"from": "team_217b6e5f0a09", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_267640588a39", "value": 2.0}, {"from": "team_217b6e5f0a09", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_ae0eea6eb6d6", "value": 2.0}, {"from": "team_e165d4f2174b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_267640588a39", "value": 2.0}, {"from": "team_e165d4f2174b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_9142ac5b229c", "value": 3.0}, {"from": "team_e165d4f2174b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_c814068bbc92", "value": 2.0}, {"from": "team_e165d4f2174b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_e9375700acbb", "value": 4.0}, {"from": "team_e165d4f2174b", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_fb2a54d63748", "value": 2.0}, {"from": "team_f48861ca24e2", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6b07fd4ea837", "value": 2.0}, {"from": "team_578ed5a4eecf", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_267640588a39", "value": 3.0}, {"from": "team_9142ac5b229c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_0e6049dbb2ce", "value": 2.0}, {"from": "team_9142ac5b229c", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_ae0eea6eb6d6", "value": 2.0}, {"from": "team_e9375700acbb", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_fb2a54d63748", "value": 2.0}, {"from": "team_ae0eea6eb6d6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_0e6049dbb2ce", "value": 2.0}, {"from": "team_ae0eea6eb6d6", "title": "Type: rivalry\u003cbr\u003eMatch: None\u003cbr\u003eTournament: None", "to": "team_6f0a7d56c2cd", "value": 2.0}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.25,
+            "damping": 0.09,
+            "gravitationalConstant": -35000,
+            "springConstant": 0.02,
+            "springLength": 140
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
